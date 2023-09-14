@@ -1,0 +1,967 @@
+CUSTOMER ID,FIRST NAME,LAST NAME,ADDRESS,ZIP CODE,PHONE NUMBER,EMAIL ADDRESS,CITY ID,LOYALTY DISCOUNT
+100000001,Simon,Walsh,897 Long Airport Avenue,81544,5354433774,Simon.Walsh@gmail.com,202978036,0.1
+100000003,Liam,Brown,59 rue de l'Abbaye,84102,5573581085,Liam.Brown@gmail.com,202978037,0.09
+100000005,Deirdre,Pullman,27 rue du Colonel Pierre Avia,84137,4702806584,Deirdre.Pullman@gmail.com,202978038,0.1
+100000007,Dorothy,Thomson,78934 Hillside Dr.,77005,5260666076,Dorothy.Thomson@gmail.com,202978039,0.07
+100000010,Dominic,Parr,7734 Strong St.,79814,4826560376,Dominic.Parr@gmail.com,202978040,0
+100000011,Dominic,Lewis,9408 Furth Circle,79626,5344483355,Dominic.Lewis@gmail.com,202978041,0.02
+100000012,Benjamin,Grant,"184, chausse de Tournai",84184,5670451363,Benjamin.Grant@gmail.com,202978042,0
+100000013,Ryan,MacDonald,"Drammen 121, PR 744 Sentrum",78762,5066438255,Ryan.MacDonald@gmail.com,202978043,0.08
+100000016,Nicholas,Newman,5557 North Pendale Street,77123,4798239617,Nicholas.Newman@gmail.com,202978044,0.01
+100000019,William,Ince,"25, rue Lauriston",77429,5189195896,William.Ince@gmail.com,202978045,0.09
+100000020,Audrey,Jones,636 St Kilda Road,80375,5404443369,Audrey.Jones@gmail.com,202978046,0.09
+100000025,Jennifer,Hughes,2678 Kingston Rd.,78312,5486558750,Jennifer.Hughes@gmail.com,202978047,0.1
+100000028,Alison,Fisher,7476 Moss Rd.,79407,5305425164,Alison.Fisher@gmail.com,202978048,0.02
+100000030,Luke,Wilkins,25593 South Bay Ln.,76722,5332205357,Luke.Wilkins@gmail.com,202978049,0.09
+100000031,Megan,Bell,"67, rue des Cinquante Otages",78771,5151190457,Megan.Bell@gmail.com,202978039,0.03
+100000034,Jake,Wilson,39323 Spinnaker Dr.,82118,5347041638,Jake.Wilson@gmail.com,202978050,0
+100000035,Karen,Dyer,Keskuskatu 45,79689,5246986352,Karen.Dyer@gmail.com,202978051,0.02
+100000036,Yvonne,Thomson,Erling Skakkes gate 78,81515,5153696049,Yvonne.Thomson@gmail.com,202978043,0.01
+100000037,Sophie,Gill,7586 Pompton St.,78925,4827875903,Sophie.Gill@gmail.com,202978052,0
+100000038,Robert,Cornish,Geislweg 14,80474,4922433433,Robert.Cornish@gmail.com,202978053,0.05
+100000041,Edward,Terry,"Monitor Money Building, 815 Pacific Hwy",80618,5006474227,Edward.Terry@gmail.com,202978054,0.05
+100000041,Edward,Terry,"Monitor Money Building, 815 Pacific Hwy",80618,5006474227,Edward.Terry@gmail.com,202978055,0.05
+100000042,Diane,Black,1785 First Street,78204,5544241833,Diane.Black@gmail.com,202978056,0.06
+100000045,Dorothy,Johnston,Berkeley Gardens 12  Brewery,75277,5101758913,Dorothy.Johnston@gmail.com,202978038,0.1
+100000049,Simon,Ball,"C/ Moralzarzal, 86",84164,5694535621,Simon.Ball@gmail.com,202978052,0.02
+100000050,Charles,Nolan,Berguvsv„gen  8,79956,5086522788,Charles.Nolan@gmail.com,202978038,0.03
+100000051,Sophie,Wilkins,"C/ Araquil, 67",83993,5184166569,Sophie.Wilkins@gmail.com,202978057,0.04
+100000052,Kimberly,James,"Bronz Sok., Bronz Apt. 3/6 Tesvikiye",82889,5436198254,Kimberly.James@gmail.com,202978038,0.02
+100000053,Madeleine,Ellison,5905 Pompton St.,82663,4752254391,Madeleine.Ellison@gmail.com,202978047,0.09
+100000054,Irene,MacLeod,31 Duncan St. West End,79550,5034133423,Irene.MacLeod@gmail.com,202978058,0.07
+100000055,Cameron,Taylor,782 First Street,77251,4821997396,Cameron.Taylor@gmail.com,202978059,0.08
+100000056,Liam,Gibson,"2, rue du Commerce",79008,5262713300,Liam.Gibson@gmail.com,202978060,0.07
+100000057,Donna,Knox,1900 Oak St.,77440,5363364270,Donna.Knox@gmail.com,202978051,0
+100000058,Piers,Morgan,3675 Furth Circle,83782,5294139852,Piers.Morgan@gmail.com,202978046,0.09
+100000059,Phil,Randall,4658 Baden Av.,83614,5211313577,Phil.Randall@gmail.com,202978061,0.06
+100000060,Ryan,White,567 North Pendale Street,82694,5258416594,Ryan.White@gmail.com,202978045,0.01
+100000061,Kylie,Howard,2-2-8 Roppongi,83783,5361316664,Kylie.Howard@gmail.com,202978062,0.1
+100000062,Fiona,Bell,Via Monte Bianco 34,77490,5072050504,Fiona.Bell@gmail.com,202978040,0.03
+100000063,Kevin,Gibson,?kergatan 24,75674,5437850499,Kevin.Gibson@gmail.com,202978063,0.07
+100000064,Bernadette,Gibson,"67, avenue de l'Europe",78266,4901644899,Bernadette.Gibson@gmail.com,202978064,0.05
+100000077,Frank,Brown,5677 Strong St.,76224,4984980555,Frank.Brown@gmail.com,202978041,0.08
+100000078,Diane,Simpson,2304 Long Airport Avenue,78492,5073194122,Diane.Simpson@gmail.com,202978060,0.03
+100000080,David,Peters,7825 Douglas Av.,84702,5125970204,David.Peters@gmail.com,202978036,0.06
+100000081,Joan,Buckland,201 Miller Street,79443,5640405206,Joan.Buckland@gmail.com,202978065,0.02
+100000082,Neil,Robertson,43 rue St. Laurent,77685,4910482572,Neil.Robertson@gmail.com,202978042,0.05
+100000083,Paul,Mackay,"Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku",77293,5217932682,Paul.Mackay@gmail.com,202978066,0
+100000084,Dylan,Fraser,11328 Douglas Av.,81356,4840512759,Dylan.Fraser@gmail.com,202978064,0.07
+100000085,Pippa,Buckland,"54, rue Royale",79891,4856769299,Pippa.Buckland@gmail.com,202978067,0.04
+100000086,Matt,McGrath,3758 North Pendale Street,81513,4755006632,Matt.McGrath@gmail.com,202978068,0.08
+100000087,Jack,White,Vinb'ltet 34,81585,5342127188,Jack.White@gmail.com,202978055,0.06
+100000088,Jasmine,Piper,35 King George,80960,5221253610,Jasmine.Piper@gmail.com,202978069,0.06
+100000089,Michelle,Ellison,4575 Hillside Dr.,78636,4702588973,Michelle.Ellison@gmail.com,202978038,0.03
+100000090,Wanda,Henderson,1 rue Alsace-Lorraine,75914,5689417082,Wanda.Henderson@gmail.com,202978070,0.03
+100000091,Blake,Reid,120 Hanover Sq.,78277,5315937186,Blake.Reid@gmail.com,202978071,0.01
+100000092,Jane,Forsyth,"Rambla de Catalu¤a, 23",77937,5597206610,Jane.Forsyth@gmail.com,202978068,0.1
+100000093,Dan,Peake,6047 Douglas Av.,76650,4877038886,Dan.Peake@gmail.com,202978064,0.02
+100000094,Lisa,Davies,361 Furth Circle,82123,4796725256,Lisa.Davies@gmail.com,202978044,0.01
+100000095,Rebecca,Knox,Rue Joseph-Bens 532,79340,5429007256,Rebecca.Knox@gmail.com,202978052,0.04
+100000096,Joshua,Slater,23 Tsawassen Blvd.,75267,4896770323,Joshua.Slater@gmail.com,202978072,0.03
+100000097,Heather,Wallace,8616 Spinnaker Dr.,80696,5437034349,Heather.Wallace@gmail.com,202978073,0.09
+100000098,Maria,Johnston,Garden House Crowther Way,83238,5007485445,Maria.Johnston@gmail.com,202978046,0.04
+100000116,Alison,Johnston,Torikatu 38,82523,4696235212,Alison.Johnston@gmail.com,202978043,0.01
+100000117,Amy,McGrath,3086 Ingle Ln.,75525,4765962087,Amy.McGrath@gmail.com,202978046,0.01
+100000119,Vanessa,Lyman,"265, boulevard Charonne",76276,5528908335,Vanessa.Lyman@gmail.com,202978074,0.01
+100000120,Andrea,Dickens,Kirchgasse 6,81990,5514135590,Andrea.Dickens@gmail.com,202978075,0.09
+100000121,Ian,Slater,6251 Ingle Ln.,82828,5250614752,Ian.Slater@gmail.com,202978039,0.1
+100000122,Jacob,Payne,Village Close - 106 Linden Road Sandown,82275,4882358201,Jacob.Payne@gmail.com,202978071,0
+100000123,Harry,Short,15 McCallum Street - NatWest Center #13-03,80149,5376364600,Harry.Short@gmail.com,202978068,0.09
+100000124,John,Black,"12, rue des Bouchers",75118,5537124409,John.Black@gmail.com,202978076,0.05
+100000125,Jonathan,MacDonald,Mehrheimerstr. 369,77167,5524950570,Jonathan.MacDonald@gmail.com,202978036,0.09
+100000126,Benjamin,Blake,Grenzacherweg 237,79067,5292294132,Benjamin.Blake@gmail.com,202978045,0.05
+100000127,Emma,Fraser,Strada Provinciale 124,75145,4978294627,Emma.Fraser@gmail.com,202978058,0.08
+100000128,Virginia,Berry,7635 Spinnaker Dr.,84960,5030692019,Virginia.Berry@gmail.com,202978071,0.08
+100000129,Peter,Pullman,Lyonerstr. 34,81774,5514670008,Peter.Pullman@gmail.com,202978060,0.08
+100000130,Alison,MacLeod,"Software Engineering Center, SEC Oy",77453,5394874378,Alison.MacLeod@gmail.com,202978038,0.02
+100000131,Anna,Wright,4092 Furth Circle,81295,5534630511,Anna.Wright@gmail.com,202978070,0
+100000132,James,Marshall,25 Maiden Lane,84759,5322511702,James.Marshall@gmail.com,202978047,0.04
+100000133,Ruth,Bower,"Merchants House, 27-30 Merchant's Quay",77039,5249917012,Ruth.Bower@gmail.com,202978077,0.04
+100000134,Owen,Powell,Fauntleroy Circus,76900,5125119037,Owen.Powell@gmail.com,202978052,0.02
+100000135,Piers,King,Smagsloget 45,82877,4730453357,Piers.King@gmail.com,202978078,0.03
+100000136,Christopher,Mackenzie,5290 North Pendale Street,78701,5537411928,Christopher.Mackenzie@gmail.com,202978078,0.03
+100000137,Sarah,Wallace,4097 Douglas Av.,76308,4782098208,Sarah.Wallace@gmail.com,202978079,0.05
+100000138,Richard,Hemmings,"C/ Romero, 33",79361,5252998875,Richard.Hemmings@gmail.com,202978047,0
+100000139,Nicola,Rampling,2793 Furth Circle,77815,5459335401,Nicola.Rampling@gmail.com,202978057,0
+100000141,Angela,Wright,"24, place Kluber",78647,5340282287,Angela.Wright@gmail.com,202978068,0.06
+100000142,Sam,Russell,8489 Strong St.,78779,4861945954,Sam.Russell@gmail.com,202978080,0.04
+100000143,Luke,Ball,"Drammensveien 126 A, PB 744 Sentrum",82405,4918259567,Luke.Ball@gmail.com,202978073,0.05
+100000144,Sean,Bell,Via Ludovico il Moro 22,83446,5313526545,Sean.Bell@gmail.com,202978044,0.02
+100000145,Steven,Ball,7 Allen Street,77455,5282301763,Steven.Ball@gmail.com,202978081,0.03
+100000146,Andrew,Gray,2440 Pompton St.,75310,5214700767,Andrew.Gray@gmail.com,202978082,0.04
+100000147,Jacob,Metcalfe,Hansastr. 15,79541,5172622242,Jacob.Metcalfe@gmail.com,202978038,0.06
+100000148,Madeleine,Ogden,"Boulevard Tirou, 255",80248,4864811925,Madeleine.Ogden@gmail.com,202978058,0.05
+100000149,Dylan,Davies,16780 Pompton St.,82759,5686042888,Dylan.Davies@gmail.com,202978057,0
+100000150,Michelle,Lee,750 Cambelle road,82961,5171507623,Michelle.Lee@gmail.com,202978083,0.07
+100000151,Connor,Grant,567 George Bush town,79527,4997661135,Connor.Grant@gmail.com,202978080,0.1
+100000152,Justin,Metcalfe,345 Estates of Frankford,82587,5351790741,Justin.Metcalfe@gmail.com,202978084,0.03
+100000153,Elizabeth,Oliver,123 Estates of Richardson,79902,5605221720,Elizabeth.Oliver@gmail.com,202978085,0.05
+100000154,Kevin,Powell,789 Marquis at Waterview,83551,5280442496,Kevin.Powell@gmail.com,202978086,0.01
+100000155,Tim,Arnold,987 Cortland Canayon Creek,79943,4792839724,Tim.Arnold@gmail.com,202978045,0.01
+100000156,Charles,Roberts,567 Pearl on Frankford,80499,5209241752,Charles.Roberts@gmail.com,202978087,0.06
+100000157,Anthony,Cornish,456 Ashwood east,76353,5421522421,Anthony.Cornish@gmail.com,202978061,0.03
+100000158,Michael,Powell,999 Chatlam courts,76490,5181356176,Michael.Powell@gmail.com,202978077,0.09
+100000159,Lucas,Lawrence,777 Brockton Avenue,76503,5232434653,Lucas.Lawrence@gmail.com,202978076,0.09
+100000160,Alexander,Walker,30 Memorial Drive,83583,5124553271,Alexander.Walker@gmail.com,202978079,0.01
+100000161,Diana,Powell,250 Hartford Avenue,75505,4901293209,Diana.Powell@gmail.com,202978078,0
+100000162,Emma,Peters,700 Oak Street,84454,5425170949,Emma.Peters@gmail.com,202978081,0.05
+100000163,Amanda,Morgan,66-4 Parkhurst Rd,79962,4848028864,Amanda.Morgan@gmail.com,202978088,0.08
+100000169,Blake,Mills,591 Memorial Dr,81393,4989279474,Blake.Mills@gmail.com,202978079,0.09
+100000170,Natalie,Morrison,55 Brooksby Village Way,77214,5549961599,Natalie.Morrison@gmail.com,202978089,0.04
+100000171,John,Hughes,137 Teaticket Hwy,78052,5072651078,John.Hughes@gmail.com,202978081,0.02
+100000172,Nicholas,Greene,42 Fairhaven Commons Way,83525,4751040131,Nicholas.Greene@gmail.com,202978057,0
+100000173,Hannah,Thomson,374 William S Canning Blvd,77284,5068540944,Hannah.Thomson@gmail.com,202978063,0.03
+100000173,Hannah,Thomson,374 William S Canning Blvd,77284,5068540944,Hannah.Thomson@gmail.com,202978059,0.03
+100000174,Penelope,Glover,121 Worcester Rd,76175,5555642207,Penelope.Glover@gmail.com,202978044,0.04
+100000175,Max,Stewart,677 Timpany Blvd,81691,5182734964,Max.Stewart@gmail.com,202978064,0.06
+100000176,Wendy,Gill,337 Russell St,83309,5111627566,Wendy.Gill@gmail.com,202978037,0.02
+100000176,Wendy,Gill,337 Russell St,83309,5111627566,Wendy.Gill@gmail.com,202978090,0.02
+100000177,Thomas,Bailey,295 Plymouth Street,77250,5683755369,Thomas.Bailey@gmail.com,202978046,0.04
+100000178,Dan,Piper,1775 Washington St,80026,5090323304,Dan.Piper@gmail.com,202978052,0.06
+100000179,Dan,Metcalfe,280 Washington Street,83402,5437854197,Dan.Metcalfe@gmail.com,202978091,0.07
+100000181,Mary,Watson,20 Soojian Dr,77992,5028870427,Mary.Watson@gmail.com,202978064,0.08
+100000182,Austin,Ball,11 Jungle Road,82731,5285192604,Austin.Ball@gmail.com,202978081,0.06
+100000183,Christian,Piper,301 Massachusetts Ave,79411,5508193480,Christian.Piper@gmail.com,202978079,0.02
+100000184,Peter,McGrath,780 Lynnway,81870,5592584845,Peter.McGrath@gmail.com,202978068,0.03
+100000185,Cameron,Short,70 Pleasant Valley Street,75683,5672556763,Cameron.Short@gmail.com,202978089,0.08
+100000187,Emma,Parr,830 Curran Memorial Hwy,81791,5020212233,Emma.Parr@gmail.com,202978091,0.02
+100000188,Pippa,Mathis,1470 S Washington St,84006,5337362577,Pippa.Mathis@gmail.com,202978040,0.04
+100000189,Wendy,Morrison,506 State Road,82268,5519171661,Wendy.Morrison@gmail.com,202978058,0
+100000190,Vanessa,Avery,742 Main Street,82674,4919133471,Vanessa.Avery@gmail.com,202978086,0.05
+100000192,Oliver,Blake,72 Main St,78828,5309063280,Oliver.Blake@gmail.com,202978078,0.09
+100000193,Jane,Wright,200 Otis Street,80421,5660889004,Jane.Wright@gmail.com,202978077,0.08
+100000194,James,McGrath,180 North King Street,77162,5278672762,James.McGrath@gmail.com,202978086,0.07
+100000195,Amanda,Young,555 East Main St,80432,5229546735,Amanda.Young@gmail.com,202978040,0.09
+100000196,Jennifer,Slater,555 Hubbard Ave-Suite 12,76517,5263196564,Jennifer.Slater@gmail.com,202978048,0.04
+100000197,Blake,Ross,300 Colony Place,80808,5161484291,Blake.Ross@gmail.com,202978043,0.07
+100000198,Tim,North,301 Falls Blvd,79500,4719816340,Tim.North@gmail.com,202978092,0
+100000199,Jasmine,Terry,36 Paramount Drive,81200,5142365828,Jasmine.Terry@gmail.com,202978079,0.03
+100000200,Karen,Mackenzie,450 Highland Ave,84565,5014997144,Karen.Mackenzie@gmail.com,202978085,0.05
+100000201,Oliver,Dickens,1180 Fall River Avenue,77358,5039099632,Oliver.Dickens@gmail.com,202978047,0
+100000202,Fiona,Underwood,1105 Boston Road,83251,5010101662,Fiona.Underwood@gmail.com,202978045,0.1
+100000203,Yvonne,Arnold,100 Charlton Road,77016,5056564153,Yvonne.Arnold@gmail.com,202978040,0.03
+100000204,Fiona,Vance,262 Swansea Mall Dr,83543,4909273782,Fiona.Vance@gmail.com,202978063,0.01
+100000204,Fiona,Vance,262 Swansea Mall Dr,83543,4909273782,Fiona.Vance@gmail.com,202978059,0.01
+100000205,Anna,Lee,333 Main Street,80043,4874442719,Anna.Lee@gmail.com,202978088,0.05
+100000206,Wanda,Short,550 Providence Hwy,81133,5557317451,Wanda.Short@gmail.com,202978051,0.09
+100000207,Blake,Berry,352 Palmer Road,79998,4726355748,Blake.Berry@gmail.com,202978051,0.08
+100000208,Phil,Lewis,3005 Cranberry Hwy Rt 6 28,81841,4948654542,Phil.Lewis@gmail.com,202978064,0
+100000209,Christian,Sharp,250 Rt 59,78731,4969673883,Christian.Sharp@gmail.com,202978093,0.04
+100000211,Robert,Wright,141 Washington Ave Extension,80022,5685758860,Robert.Wright@gmail.com,202978092,0.02
+100000212,Eric,North,13858 Rt 31 W,81334,4736522360,Eric.North@gmail.com,202978087,0
+100000213,Tracey,Grant,2055 Niagara Falls Blvd,83760,5190137937,Tracey.Grant@gmail.com,202978089,0.1
+100000214,Faith,McDonald,101 Sanford Farm Shpg Center,79345,4813477939,Faith.McDonald@gmail.com,202978051,0.01
+100000215,Alan,Murray,297 Grant Avenue,80923,4857244761,Alan.Murray@gmail.com,202978069,0.05
+100000216,Nathan,Turner,4133 Veterans Memorial Drive,77572,4964543328,Nathan.Turner@gmail.com,202978089,0.01
+100000217,Carolyn,Hart,6265 Brockport Spencerport Rd,82066,5315809456,Carolyn.Hart@gmail.com,202978038,0.06
+100000218,Theresa,Grant,5399 W Genesse St,83703,5224212065,Theresa.Grant@gmail.com,202978048,0.08
+100000219,Alexander,Ince,3191 County rd 10,78200,5370441259,Alexander.Ince@gmail.com,202978069,0.04
+100000220,Maria,Simpson,30 Catskill,80471,5233492787,Maria.Simpson@gmail.com,202978089,0.09
+100000221,Sally,Arnold,161 Centereach Mall,76067,5449108986,Sally.Arnold@gmail.com,202978042,0.08
+100000222,Jessica,Morrison,3018 East Ave,80894,4793167957,Jessica.Morrison@gmail.com,202978091,0
+100000223,Lucas,Langdon,100 Thruway Plaza,76971,5157259169,Lucas.Langdon@gmail.com,202978083,0.02
+100000224,Christian,Baker,8064 Brewerton Rd,79593,5309463439,Christian.Baker@gmail.com,202978086,0.03
+100000225,Piers,White,5033 Transit Road,75784,5643778415,Piers.White@gmail.com,202978047,0.09
+100000226,Gordon,Fraser,3949 Route 31,82155,5108134107,Gordon.Fraser@gmail.com,202978073,0.07
+100000227,Connor,Gill,139 Merchant Place,75809,5584105741,Connor.Gill@gmail.com,202978041,0.08
+100000228,Virginia,Howard,85 Crooked Hill Road,81937,5449969099,Virginia.Howard@gmail.com,202978085,0.01
+100000229,Yvonne,Johnston,872 Route 13,82912,5146856695,Yvonne.Johnston@gmail.com,202978094,0.04
+100000230,Dan,Terry,279 Troy Road,76478,5291648224,Dan.Terry@gmail.com,202978062,0.04
+100000231,Audrey,McGrath,2465 Hempstead Turnpike,77320,5138764402,Audrey.McGrath@gmail.com,202978040,0.05
+100000232,Trevor,King,6438 Basile Rowe,78170,5564106270,Trevor.King@gmail.com,202978075,0.07
+100000233,Stewart,Pullman,25737 US Rt 11,75149,5084620555,Stewart.Pullman@gmail.com,202978053,0
+100000234,Brian,Mackay,901 Route 110,75268,4846529357,Brian.Mackay@gmail.com,202978049,0.01
+100000234,Brian,Mackay,901 Route 110,75268,4846529357,Brian.Mackay@gmail.com,202978057,0.01
+100000235,Jessica,James,2400 Route 9,75426,5515020429,Jessica.James@gmail.com,202978089,0.04
+100000236,Carol,Blake,10401 Bennett Road,77014,5402878035,Carol.Blake@gmail.com,202978064,0.02
+100000237,Alison,Hudson,1818 State Route 3,82541,5101830274,Alison.Hudson@gmail.com,202978066,0.07
+100000239,Natalie,Welch,4300 Lakeville Road,84400,5076380833,Natalie.Welch@gmail.com,202978069,0.07
+100000240,John,Baker,990 Route 5 20,77066,5232312512,John.Baker@gmail.com,202978064,0.05
+100000241,Oliver,Powell,311 RT 9W,84708,5456178738,Oliver.Powell@gmail.com,202978095,0.03
+100000242,Amanda,Rees,200 Dutch Meadows Ln,78382,4749174470,Amanda.Rees@gmail.com,202978048,0.04
+100000243,Paul,Davies,100 Elm Ridge Center Dr,84662,5646796436,Paul.Davies@gmail.com,202978047,0.1
+100000244,Brian,Short,1549 Rt 9,76111,5205387558,Brian.Short@gmail.com,202978066,0.01
+100000245,Matt,Graham,5360 Southwestern Blvd,81315,5090766346,Matt.Graham@gmail.com,202978071,0.05
+100000246,Justin,Paterson,103 North Caroline St,82376,5409893668,Justin.Paterson@gmail.com,202978077,0.01
+100000247,Claire,Dickens,1000 State Route 36,76794,5182399211,Claire.Dickens@gmail.com,202978054,0.09
+100000248,James,Miller,1400 County Rd 64,81138,4839034187,James.Miller@gmail.com,202978095,0.1
+100000249,Brandon,Bower,135 Fairgrounds Memorial Pkwy,75475,5275055533,Brandon.Bower@gmail.com,202978086,0.04
+100000250,Amelia,Mathis,2 Gannett Dr,81639,5077016214,Amelia.Mathis@gmail.com,202978064,0
+100000251,Fiona,Jones,233 5th Ave Ext,79500,4949917238,Fiona.Jones@gmail.com,202978086,0.1
+100000252,Nicholas,Lyman,601 Frank Stottile Blvd,84137,4813160458,Nicholas.Lyman@gmail.com,202978096,0.09
+100000253,Lauren,Ball,350 E Fairmount Ave,77567,4779112717,Lauren.Ball@gmail.com,202978045,0.03
+100000254,Stewart,Rees,4975 Transit Rd,83395,4865433638,Stewart.Rees@gmail.com,202978074,0.06
+100000255,Diane,Henderson,579 Troy-Schenectady Road,84315,5611806605,Diane.Henderson@gmail.com,202978093,0.1
+100000273,Jake,Skinner,5783 So Transit Road,79779,4777632470,Jake.Skinner@gmail.com,202978048,0.01
+100000274,Rose,Russell,7155 State Rt 12 S,75315,4796641604,Rose.Russell@gmail.com,202978070,0.1
+100000275,Victor,Avery,425 Route 31,79860,5574980472,Victor.Avery@gmail.com,202978063,0.06
+100000276,Brandon,Miller,3222 State Rt 11,81187,5399377437,Brandon.Miller@gmail.com,202978036,0.05
+100000277,Maria,Arnold,200 Sunrise Mall,79803,5160307074,Maria.Arnold@gmail.com,202978079,0.01
+100000278,Irene,Vaughan,43 Stephenville St,84445,5160042882,Irene.Vaughan@gmail.com,202978089,0.09
+100000279,Blake,Alsop,750 Middle Country Road,78957,5080530751,Blake.Alsop@gmail.com,202978079,0.08
+100000280,Stephanie,Ogden,470 Route 211 East,78681,5181771520,Stephanie.Ogden@gmail.com,202978044,0.07
+100000281,Sam,Parsons,3133 E Main St,78884,5394205554,Sam.Parsons@gmail.com,202978064,0.04
+100000282,Theresa,Marshall,288 Larkin,81322,5281198580,Theresa.Marshall@gmail.com,202978037,0.04
+100000283,Stephanie,Smith,41 Anawana Lake Road,78814,5495973977,Stephanie.Smith@gmail.com,202978092,0.02
+100000284,Lily,Hughes,4765 Commercial Drive,84641,5618898690,Lily.Hughes@gmail.com,202978073,0.04
+100000285,Matt,Black,1201 Rt 300,75183,4790970248,Matt.Black@gmail.com,202978088,0.08
+100000286,Ruth,Lambert,255 W Main St,80941,5679456639,Ruth.Lambert@gmail.com,202978053,0.08
+100000287,Peter,Lyman,120 Commercial Parkway,78492,5599001579,Peter.Lyman@gmail.com,202978061,0.09
+100000288,Liam,King,1400 Farmington Ave,78977,4788277495,Liam.King@gmail.com,202978070,0
+100000289,Olivia,Peake,161 Berlin Road,77011,5229526753,Olivia.Peake@gmail.com,202978042,0.06
+100000290,Joe,May,67 Newton Rd,82802,5360499433,Joe.May@gmail.com,202978079,0.07
+100000291,Wanda,Quinn,656 New Haven Ave,81321,5000853466,Wanda.Quinn@gmail.com,202978077,0.08
+100000292,Karen,Glover,69 Prospect Hill Road,83852,4871978694,Karen.Glover@gmail.com,202978091,0.05
+100000293,Nathan,Bond,150 Gold Star Hwy,77753,4990151527,Nathan.Bond@gmail.com,202978042,0.1
+100000294,Brandon,Morgan,900 Boston Post Road,76144,5152360266,Brandon.Morgan@gmail.com,202978051,0.01
+100000296,Penelope,Clarkson,2300 Dixwell Ave,82008,5157991944,Penelope.Clarkson@gmail.com,202978066,0.07
+100000297,Sophie,Thomson,495 Flatbush Ave,82685,5264554879,Sophie.Thomson@gmail.com,202978038,0
+100000298,Anna,James,180 River Rd,77647,5015337588,Anna.James@gmail.com,202978080,0.09
+100000299,Zoe,Johnston,420 Buckland Hills Dr,75643,5613906776,Zoe.Johnston@gmail.com,202978056,0.04
+100000303,Brian,Russell,1365 Boston Post Road,78556,5645813477,Brian.Russell@gmail.com,202978070,0.03
+100000304,Andrea,Jackson,1100 New Haven Road,82960,5100216962,Andrea.Jackson@gmail.com,202978051,0.07
+100000305,Kevin,Springer,315 Foxon Blvd,78687,5582196665,Kevin.Springer@gmail.com,202978047,0.02
+100000306,Phil,Grant,164 Danbury Rd,82203,4833883310,Phil.Grant@gmail.com,202978080,0.09
+100000307,Adrian,Hill,3164 Berlin Turnpike,78146,5664206413,Adrian.Hill@gmail.com,202978055,0.03
+100000308,John,Campbell,474 Boston Post Road,78301,4898067728,John.Campbell@gmail.com,202978053,0.05
+100000309,Alexander,Edmunds,650 Main Ave,75623,5001799003,Alexander.Edmunds@gmail.com,202978074,0.02
+100000310,Felicity,Hodges,680 Connecticut Avenue,78952,4754249240,Felicity.Hodges@gmail.com,202978092,0.05
+100000311,Lucas,Avery,220 Salem Turnpike,77461,5351392605,Lucas.Avery@gmail.com,202978080,0.07
+100000312,Blake,Hudson,655 Boston Post Rd,79297,5684435626,Blake.Hudson@gmail.com,202978054,0.1
+100000313,Jessica,Piper,625 School Street,77845,5451503642,Jessica.Piper@gmail.com,202978052,0.01
+100000314,Nicola,Clarkson,80 Town Line Rd,80697,5101470229,Nicola.Clarkson@gmail.com,202978069,0
+100000315,Peter,Metcalfe,465 Bridgeport Avenue,77121,5493455325,Peter.Metcalfe@gmail.com,202978053,0.08
+100000316,Mary,Carr,235 Queen St,75984,5631494489,Mary.Carr@gmail.com,202978043,0.01
+100000317,Liam,Stewart,150 Barnum Avenue Cutoff,75160,5537669871,Liam.Stewart@gmail.com,202978074,0.09
+100000318,Anna,MacLeod,970 Torringford Street,76051,5635342564,Anna.MacLeod@gmail.com,202978036,0.05
+100000319,John,Hemmings,844 No Colony Road,75559,5455850516,John.Hemmings@gmail.com,202978039,0.1
+100000319,John,Hemmings,844 No Colony Road,75559,5455850516,John.Hemmings@gmail.com,202978071,0.1
+100000320,Ryan,Morrison,910 Wolcott St,75379,4701525938,Ryan.Morrison@gmail.com,202978054,0.08
+100000321,Adam,Sharp,155 Waterford Parkway No,82960,5135377334,Adam.Sharp@gmail.com,202978085,0.04
+100000322,Alison,Lambert,515 Sawmill Road,84972,5105437902,Alison.Lambert@gmail.com,202978043,0
+100000323,Joanne,Fisher,2473 Hackworth Road,75521,5688678187,Joanne.Fisher@gmail.com,202978086,0.1
+100000324,David,Newman,630 Coonial Promenade Pkwy,75532,4735191890,David.Newman@gmail.com,202978097,0.05
+100000325,Boris,Walker,2643 Hwy 280 West,78548,5214774379,Boris.Walker@gmail.com,202978037,0.04
+100000326,Felicity,North,540 West Bypass,85015,5586174380,Felicity.North@gmail.com,202978079,0.07
+100000327,Dominic,Miller,5560 Mcclellan Blvd,79592,4726074549,Dominic.Miller@gmail.com,202978072,0.06
+100000328,Megan,Tucker,1450 No Brindlee Mtn Pkwy,84465,5236509832,Megan.Tucker@gmail.com,202978063,0.08
+100000329,Deirdre,Coleman,1011 US Hwy 72 East,77219,4923983872,Deirdre.Coleman@gmail.com,202978085,0.07
+100000330,Wendy,Turner,973 Gilbert Ferry Road Se,75438,4754027883,Wendy.Turner@gmail.com,202978063,0.05
+100000331,Jonathan,Manning,1717 South College Street,84260,5609056240,Jonathan.Manning@gmail.com,202978084,0
+100000332,Carolyn,Churchill,701 Mcmeans Ave,76979,5336804328,Carolyn.Churchill@gmail.com,202978039,0.04
+100000334,Carolyn,Roberts,750 Academy Drive,75780,4709252672,Carolyn.Roberts@gmail.com,202978053,0.08
+100000335,Karen,May,312 Palisades Blvd,80057,5631347823,Karen.May@gmail.com,202978041,0.07
+100000336,Tracey,Edmunds,1600 Montclair Rd,78072,5561517874,Tracey.Edmunds@gmail.com,202978045,0.09
+100000337,Tracey,Langdon,5919 Trussville Crossings Pkwy,81595,5101228266,Tracey.Langdon@gmail.com,202978038,0.06
+100000338,Jake,Dyer,9248 Parkway East,82583,4821270776,Jake.Dyer@gmail.com,202978052,0.01
+100000341,Jasmine,Greene,1972 Hwy 431,80464,4985839748,Jasmine.Greene@gmail.com,202978068,0.06
+100000342,Christian,Jackson,10675 Hwy 5,80015,4851941544,Christian.Jackson@gmail.com,202978058,0.1
+100000343,Eric,Vance,2041 Douglas Avenue,81650,4795698290,Eric.Vance@gmail.com,202978072,0.03
+100000344,Anna,Miller,5100 Hwy 31,79384,4828162931,Anna.Miller@gmail.com,202978086,0.03
+100000345,Benjamin,Ince,1916 Center Point Rd,80943,4763121096,Benjamin.Ince@gmail.com,202978069,0.03
+100000346,Joseph,Buckland,1950 W Main St,78926,5187060559,Joseph.Buckland@gmail.com,202978059,0.01
+100000360,Emma,Fisher,16077 Highway 280,77908,5537860391,Emma.Fisher@gmail.com,202978094,0.03
+100000369,Joan,Quinn,1415 7Th Street South,84649,5517639788,Joan.Quinn@gmail.com,202978096,0.08
+100000377,Samantha,Knox,626 Olive Street Sw,78244,5209660145,Samantha.Knox@gmail.com,202978053,0.1
+100000378,Harry,Manning,27520 Hwy 98,82573,4999829931,Harry.Manning@gmail.com,202978092,0.06
+100000379,Melanie,Henderson,2800 Spring Avn SW,81081,4812871816,Melanie.Henderson@gmail.com,202978089,0.02
+100000380,Piers,Walker,969 Us Hwy 80 West,82013,4876368509,Piers.Walker@gmail.com,202978044,0.04
+100000381,Kimberly,Bond,3300 South Oates Street,82009,5523417573,Kimberly.Bond@gmail.com,202978092,0.03
+100000382,Anthony,Chapman,4310 Montgomery Hwy,84509,5635824303,Anthony.Chapman@gmail.com,202978078,0.08
+100000383,Jasmine,Oliver,600 Boll Weevil Circle,84697,4943477008,Jasmine.Oliver@gmail.com,202978045,0
+100000400,Jacob,Fisher,3176 South Eufaula Avenue,84096,5554419370,Jacob.Fisher@gmail.com,202978085,0.02
+100000401,Leonard,Paterson,7100 Aaron Aronov Drive,78207,5371817033,Leonard.Paterson@gmail.com,202978080,0.03
+100000402,Kylie,McDonald,10040 County Road 48,81366,4700451068,Kylie.McDonald@gmail.com,202978054,0.04
+100000403,Ruth,Simpson,3186 Hwy 171 North,78753,5039501443,Ruth.Simpson@gmail.com,202978089,0.02
+100000404,Stewart,Bell,3100 Hough Rd,82294,5669117968,Stewart.Bell@gmail.com,202978055,0.07
+100000405,Cameron,Blake,2200 South Mckenzie St,78943,5680394288,Cameron.Blake@gmail.com,202978041,0.08
+100000412,Dan,Wright,2001 Glenn Bldv Sw,81062,5569602130,Dan.Wright@gmail.com,202978091,0.1
+100000413,Boris,Burgess,340 East Meighan Blvd,80813,5026116482,Boris.Burgess@gmail.com,202978065,0.02
+100000420,Samantha,Mackenzie,890 Odum Road,81173,5147283404,Samantha.Mackenzie@gmail.com,202978053,0.01
+100000421,Kimberly,Wallace,1608 W Magnolia Ave,81092,5450793856,Kimberly.Wallace@gmail.com,202978053,0.05
+100000422,Brian,Simpson,501 Willow Lane,84950,5610606342,Brian.Simpson@gmail.com,202978040,0.05
+100000423,Wendy,Metcalfe,170 Fort Morgan Road,83497,5637624570,Wendy.Metcalfe@gmail.com,202978076,0
+100000435,Isaac,Rutherford,11697 US Hwy 431,84324,5253865888,Isaac.Rutherford@gmail.com,202978063,0.02
+100000436,Bella,Hemmings,42417 Hwy 195,75979,5531140271,Bella.Hemmings@gmail.com,202978089,0.01
+100000437,Sean,Sanderson,1706 Military Street South,78942,5390661914,Sean.Sanderson@gmail.com,202978059,0.03
+100000443,Justin,Hodges,1201 Hwy 31 NW,76289,5562041239,Justin.Hodges@gmail.com,202978043,0.03
+100000444,Melanie,Nash,209 Lakeshore Parkway,83981,5242771973,Melanie.Nash@gmail.com,202978095,0.07
+100000445,Rose,Hodges,2780 John Hawkins Pkwy,76509,5460876077,Rose.Hodges@gmail.com,202978097,0.02
+100000446,Christian,Abraham,5335 Hwy 280 South,75423,5069679767,Christian.Abraham@gmail.com,202978094,0.08
+100000451,Tracey,Thomson,1007 Red Farmer Drive,77156,4855342720,Tracey.Thomson@gmail.com,202978077,0.03
+100000452,Peter,Quinn,2900 S Mem PkwyDrake Ave,84577,5030840194,Peter.Quinn@gmail.com,202978057,0.07
+100000453,Kimberly,Clark,11610 Memorial Pkwy South,79089,5060542605,Kimberly.Clark@gmail.com,202978084,0.06
+100000454,Edward,Hart,2200 Sparkman Drive,83477,4776947196,Edward.Hart@gmail.com,202978069,0.07
+100000455,Eric,Henderson,330 Sutton Rd,79836,5089161366,Eric.Henderson@gmail.com,202978048,0.05
+100000456,Amanda,Ball,6140A Univ Drive,83036,4912321438,Amanda.Ball@gmail.com,202978066,0.04
+100000475,Kevin,James,4206 N College Ave,78973,5684615397,Kevin.James@gmail.com,202978072,0.09
+100000476,Donna,Robertson,1625 Pelham South,81138,5334692536,Donna.Robertson@gmail.com,202978054,0.1
+100000477,Chloe,MacLeod,1801 Hwy 78 East,81909,5331569624,Chloe.MacLeod@gmail.com,202978094,0.09
+100000478,Bernadette,Forsyth,8551 Whitfield Ave,78780,4785467071,Bernadette.Forsyth@gmail.com,202978061,0.05
+100000489,Kevin,Wright,8650 Madison Blvd,83312,5097549653,Kevin.Wright@gmail.com,202978068,0.09
+100000498,Emma,Lewis,145 Kelley Blvd,79231,4841184275,Emma.Lewis@gmail.com,202978068,0.04
+100000499,Deirdre,Greene,1970 S University Blvd,82139,5573177094,Deirdre.Greene@gmail.com,202978086,0.05
+100000500,Grace,Stewart,6350 Cottage Hill Road,76321,5228739828,Grace.Stewart@gmail.com,202978064,0.1
+100000501,Victoria,Johnston,101 South Beltline Highway,80610,5013862323,Victoria.Johnston@gmail.com,202978045,0.01
+100000502,Pippa,Johnston,2500 Dawes Road,77333,5428410050,Pippa.Johnston@gmail.com,202978036,0.04
+100000518,Penelope,Metcalfe,5245 Rangeline Service Rd,84580,4891925560,Penelope.Metcalfe@gmail.com,202978072,0.09
+100000519,Alexander,Duncan,685 Schillinger Rd,83367,5033402080,Alexander.Duncan@gmail.com,202978056,0
+100000520,Joan,Clarkson,3371 S Alabama Ave,78577,4858348820,Joan.Clarkson@gmail.com,202978064,0.07
+100000521,Sonia,Vance,10710 Chantilly Pkwy,76327,5209048236,Sonia.Vance@gmail.com,202978080,0.06
+100000542,Anne,Sharp,3801 Eastern Blvd,78335,5231608656,Anne.Sharp@gmail.com,202978056,0.09
+100000542,Anne,Sharp,3801 Eastern Blvd,78335,5231608656,Anne.Sharp@gmail.com,202978066,0.09
+100000543,Chloe,Dickens,6495 Atlanta Hwy,77943,5450350631,Chloe.Dickens@gmail.com,202978095,0.01
+100000544,Ian,Ince,851 Ann St,76758,4777576281,Ian.Ince@gmail.com,202978060,0.1
+100000545,Julia,Ellison,15445 Highway 24,82529,5635863785,Julia.Ellison@gmail.com,202978077,0.08
+100000546,Donna,Johnston,517 West Avalon Ave,84383,5410277763,Donna.Johnston@gmail.com,202978074,0.02
+100000547,Sue,Baker,5710 Mcfarland Blvd,83895,5134699142,Sue.Baker@gmail.com,202978051,0
+100000558,Jan,Sanderson,2453 2Nd Avenue East,80173,5402394313,Jan.Sanderson@gmail.com,202978053,0.03
+100000559,Grace,Mills,2900 Pepperrell Pkwy,75103,4904036452,Grace.Mills@gmail.com,202978063,0.09
+100000560,Jacob,King,92 Plaza Lane,83523,5690216142,Jacob.King@gmail.com,202978037,0.07
+100000561,Lillian,Metcalfe,1537 Hwy 231 South,82189,5179056953,Lillian.Metcalfe@gmail.com,202978093,0.05
+100000562,Brandon,MacDonald,2181 Pelham Pkwy,77070,4963040109,Brandon.MacDonald@gmail.com,202978074,0.05
+100000563,Joanne,Mackenzie,165 Vaughan Ln,75121,5199046882,Joanne.Mackenzie@gmail.com,202978096,0
+100000564,Leonard,Paige,3700 Hwy 280-431 N,85046,5055666775,Leonard.Paige@gmail.com,202978040,0.06
+100000565,Grace,Scott,1903 Cobbs Ford Rd,79300,5236774741,Grace.Scott@gmail.com,202978092,0.07
+100000566,Diane,Berry,4180 Us Hwy 431,83826,5150852060,Diane.Berry@gmail.com,202978092,0.1
+100000567,Alison,James,13675 Hwy 43,81446,5295008210,Alison.James@gmail.com,202978090,0
+100000568,Oliver,Hudson,1095 Industrial Pkwy,80086,4837046020,Oliver.Hudson@gmail.com,202978088,0.09
+100000569,Gabrielle,Skinner,24833 Johnt Reidprkw,82533,5613397400,Gabrielle.Skinner@gmail.com,202978094,0
+100000570,Nicola,Hill,1501 Hwy 14 East,84147,5670764773,Nicola.Hill@gmail.com,202978081,0.1
+100000571,Connor,Harris,7855 Moffett Rd,79709,5656365865,Connor.Harris@gmail.com,202978093,0.02
+100000572,David,Stewart,150 Springville Station Blvd,81883,5164615777,David.Stewart@gmail.com,202978058,0.06
+100000573,Sam,Howard,690 Hwy 78,79700,4957720373,Sam.Howard@gmail.com,202978039,0.09
+100000573,Sam,Howard,690 Hwy 78,79700,4957720373,Sam.Howard@gmail.com,202978071,0.09
+100000574,Dylan,Marshall,41301 US Hwy 280,78127,5596287603,Dylan.Marshall@gmail.com,202978069,0.02
+100000575,Michael,Davidson,214 Haynes Street,80016,4697321532,Michael.Davidson@gmail.com,202978072,0.08
+100000576,Madeleine,Hamilton,1300 Gilmer Ave,82303,5150190638,Madeleine.Hamilton@gmail.com,202978093,0.02
+100000577,Yvonne,Randall,34301 Hwy 43,82552,4814896608,Yvonne.Randall@gmail.com,202978098,0.1
+100000578,Nathan,Davidson,1420 Us 231 South,84347,5367748211,Nathan.Davidson@gmail.com,202978083,0.03
+100000603,Jane,Walker,1501 Skyland Blvd E,77710,4787672809,Jane.Walker@gmail.com,202978059,0.01
+100000604,Angela,Short,3501 20th Av,84495,5610674541,Angela.Short@gmail.com,202978053,0
+100000605,Jasmine,Wilkins,1300 Montgomery Highway,77873,5477548945,Jasmine.Wilkins@gmail.com,202978097,0.1
+100000606,Ruth,Mackenzie,4538 Us Hwy 231,81870,5474385894,Ruth.Mackenzie@gmail.com,202978070,0.09
+100000616,Alison,Cornish,2575 Us Hwy 43,81827,5128848488,Alison.Cornish@gmail.com,202978071,0.1
+100000617,Evan,Metcalfe,25 Dallygate,82959,5389241873,Evan.Metcalfe@gmail.com,202978038,0.04
+100000618,Andrew,Wright,18 Thornton Crescent,83310,4855171062,Andrew.Wright@gmail.com,202978094,0.08
+100000626,Lily,Hudson,Dunscroft Farm,82486,4777529729,Lily.Hudson@gmail.com,202978055,0.03
+100000627,Brian,Slater,Cherry Tree Cottage,81465,4999596893,Brian.Slater@gmail.com,202978084,0.1
+100000628,Rose,Davies,59 Ravendale Road,84327,5618187821,Rose.Davies@gmail.com,202978076,0.08
+100000640,David,Arnold,Candleshoe,78600,5656165600,David.Arnold@gmail.com,202978073,0.1
+100000641,Amanda,Payne,39 Horncastle Road,76178,5523178838,Amanda.Payne@gmail.com,202978058,0.1
+100000642,Eric,Wilson,27A West End Road,80834,5271814669,Eric.Wilson@gmail.com,202978044,0.07
+100000643,Alison,Parsons,The Carrock,80525,5267164764,Alison.Parsons@gmail.com,202978072,0.07
+100000655,Brandon,Walsh,Lincolnshire County Council,79032,5259736832,Brandon.Walsh@gmail.com,202978092,0.01
+100000656,Dylan,Smith,18 Bullens Lane,78751,5487989914,Dylan.Smith@gmail.com,202978068,0.03
+100000657,Emily,Reid,The Old Farm House,76032,5673452427,Emily.Reid@gmail.com,202978086,0.07
+100000677,Dominic,Langdon,1 The Oakleigh,76744,4817667728,Dominic.Langdon@gmail.com,202978077,0.04
+100000678,Victoria,Thomson,9 Sunningdale Drive,84710,5518071565,Victoria.Thomson@gmail.com,202978037,0.07
+100000679,Yvonne,Lambert,Skyview,76095,5452978620,Yvonne.Lambert@gmail.com,202978063,0.07
+100000680,Ruth,Short,Clover Farm,75814,5694116055,Ruth.Short@gmail.com,202978089,0.03
+100000693,Kevin,Glover,Jasmine Cottage,75875,5611856596,Kevin.Glover@gmail.com,202978038,0.02
+100000694,Michael,Cameron,40 Hawthorne Drive,82479,4912672396,Michael.Cameron@gmail.com,202978039,0.04
+100000695,Penelope,Forsyth,Little Holm Farm,79478,5175188848,Penelope.Forsyth@gmail.com,202978057,0.04
+100000707,David,Graham,Bramble Cottage,76802,5591148315,David.Graham@gmail.com,202978092,0.1
+100000708,Jan,Roberts,3 Northorpe Lane,76695,5106444519,Jan.Roberts@gmail.com,202978059,0.1
+100000709,Angela,Lawrence,4 St Mark's Avenue,83554,4839448537,Angela.Lawrence@gmail.com,202978049,0.02
+100000710,Julia,Harris,18 Oak Road,84269,5470635564,Julia.Harris@gmail.com,202978063,0.03
+100000722,Katherine,Paterson,30 The Chase,82725,5124369192,Katherine.Paterson@gmail.com,202978078,0.04
+100000723,Justin,Campbell,The White Cottage,81198,5251849941,Justin.Campbell@gmail.com,202978070,0.03
+100000724,Una,Blake,The Old Three Tuns,77161,5530474406,Una.Blake@gmail.com,202978076,0.04
+100000742,Brandon,Churchill,254 Ropery Road,82710,5114228151,Brandon.Churchill@gmail.com,202978094,0.03
+100000743,Jan,Underwood,105 Beresford Avenue,84545,5373558475,Jan.Underwood@gmail.com,202978077,0.07
+100000744,Ruth,Ince,24 Regent Street,75986,4794269355,Ruth.Ince@gmail.com,202978095,0.04
+100000745,Victor,Wilson,55 Church Lane,81370,5339499899,Victor.Wilson@gmail.com,202978048,0.08
+100000746,Ava,Gibson,Crown House,82921,5108323948,Ava.Gibson@gmail.com,202978079,0.03
+100000760,Keith,Walker,Poplar Farm,84059,5024347357,Keith.Walker@gmail.com,202978062,0.09
+100000761,Wendy,Hardacre,Flat 3,81405,4923692330,Wendy.Hardacre@gmail.com,202978089,0.03
+100000771,Joe,Short,Toad Hall,82445,4984481901,Joe.Short@gmail.com,202978097,0.06
+100000772,Alexander,Anderson,20 Birch Grove,84398,5315886076,Alexander.Anderson@gmail.com,202978089,0.01
+100000773,Austin,Lee,Hilltop Farm,82213,4899863348,Austin.Lee@gmail.com,202978091,0.1
+100000781,Sonia,Welch,11 Washingborough Road,83203,5575058154,Sonia.Welch@gmail.com,202978044,0.02
+100000782,Penelope,Rampling,18 Carline Road,80803,5249898851,Penelope.Rampling@gmail.com,202978036,0.08
+100000783,Christopher,Davies,c/o Democratic Services,76188,5621920240,Christopher.Davies@gmail.com,202978097,0.08
+100000788,Kylie,Lawrence,Pyrus House,77651,5494674371,Kylie.Lawrence@gmail.com,202978038,0.08
+100000789,Brian,Thomson,Christmas Cottage,78956,4881426283,Brian.Thomson@gmail.com,202978042,0.1
+100000790,Sonia,Hughes,Badgers Holt,80612,4961908606,Sonia.Hughes@gmail.com,202978098,0.09
+100000796,Tracey,Ogden,c/o Lincolnshire County Council,81820,4877600409,Tracey.Ogden@gmail.com,202978098,0.03
+100000797,Penelope,Mackenzie,2 Austerby,75760,5330664428,Penelope.Mackenzie@gmail.com,202978066,0.01
+100000798,Karen,Tucker,Geneva House,84040,5185963354,Karen.Tucker@gmail.com,202978066,0.07
+100000806,Fiona,Allan,450 Newark Road,79065,4717092363,Fiona.Allan@gmail.com,202978078,0
+100000807,Gordon,May,Walnut Cottage,84275,5191030953,Gordon.May@gmail.com,202978048,0.06
+100000808,Steven,Davidson,Money Bridge Farm,78309,4996724506,Steven.Davidson@gmail.com,202978047,0.09
+100000809,Dylan,Mathis,7 Coleraine Close,75103,4904299841,Dylan.Mathis@gmail.com,202978075,0.03
+100000816,Cameron,Chapman,22 Tissington Road,76292,4965942536,Cameron.Chapman@gmail.com,202978040,0.08
+100000817,Melanie,Ogden,Cinders Cottage,76838,5068482304,Melanie.Ogden@gmail.com,202978054,0.02
+100000818,Tracey,Sharp,103 Birchwood Avenue,75132,5263417899,Tracey.Sharp@gmail.com,202978064,0.08
+100000823,Trevor,Tucker,23 Martin Close,81846,5635573926,Trevor.Tucker@gmail.com,202978044,0.07
+100000824,Heather,Davies,21 Gardenfield,82780,5566025531,Heather.Davies@gmail.com,202978059,0.07
+100000825,Jason,Berry,The Old Hall,78852,5532314147,Jason.Berry@gmail.com,202978039,0.01
+100000825,Jason,Berry,The Old Hall,78852,5532314147,Jason.Berry@gmail.com,202978071,0.01
+100000826,Sean,Burgess,Swallow Cottage,76978,5281630226,Sean.Burgess@gmail.com,202978085,0.1
+100000827,Amy,Buckland,5 Reedings Close,75347,5114874507,Amy.Buckland@gmail.com,202978097,0.08
+100000831,Steven,Morrison,6 Victoria Grove,80244,4700262941,Steven.Morrison@gmail.com,202978086,0.1
+100000832,David,Turner,The Burgage,77035,5404464180,David.Turner@gmail.com,202978084,0.03
+100000835,Leonard,Gibson,Bucephala,79066,5261494779,Leonard.Gibson@gmail.com,202978094,0.06
+100000836,Bella,Metcalfe,15 Forest Pines Lane,80982,5364643497,Bella.Metcalfe@gmail.com,202978073,0.05
+100000838,Felicity,MacLeod,899 WELLS BRANCH,84919,4886342204,Felicity.MacLeod@gmail.com,202978080,0
+100000839,Nathan,Kerr,841 CARRIE MANOR,81651,5028839491,Nathan.Kerr@gmail.com,202978088,0.1
+100000840,Gavin,Forsyth,900 CESAR CHAVEZ,77297,5591640031,Gavin.Forsyth@gmail.com,202978083,0.06
+100000841,Donna,Davidson,892 CROSLIN,81834,5688854526,Donna.Davidson@gmail.com,202978075,0.05
+100000846,Felicity,Butler,867 ELLIOTT,78372,4698557515,Felicity.Butler@gmail.com,202978068,0.03
+100000847,Virginia,Newman,851 FIRST,77351,5339764414,Virginia.Newman@gmail.com,202978078,0.07
+100000848,Tim,Hamilton,865 GIBSON,76106,5304915091,Tim.Hamilton@gmail.com,202978043,0.01
+100000849,Lily,Gill,892 GUADALUPE,78771,5190478372,Lily.Gill@gmail.com,202978089,0.08
+100000850,Austin,Chapman,826 HALL,82934,4852798465,Austin.Chapman@gmail.com,202978092,0.06
+100000851,Victor,Clark,838 JAMES,82657,5448083744,Victor.Clark@gmail.com,202978095,0.01
+100000853,Claire,Hudson,871 JOHANNA,82269,5283584935,Claire.Hudson@gmail.com,202978092,0.03
+100000854,Carl,Clark,855 LOGAN,84704,5538326895,Carl.Clark@gmail.com,202978079,0.02
+100000858,Simon,Baker,804 MAIN,77195,4944337578,Simon.Baker@gmail.com,202978065,0.07
+100000859,Amy,Glover,801 CADDO,77066,4906820833,Amy.Glover@gmail.com,202978064,0.06
+100000860,Rebecca,Ross,800 SUNNINGDALE,79495,4775762930,Rebecca.Ross@gmail.com,202978070,0.05
+100000861,Sally,Graham,800 SUNNY VALE,76870,5182014664,Sally.Graham@gmail.com,202978062,0.07
+100000862,Jack,Young,880 SUSIE,77618,4826713907,Jack.Young@gmail.com,202978058,0.03
+100000867,Evan,Abraham,842 SWISHER,78872,4914224126,Evan.Abraham@gmail.com,202978041,0.1
+100000868,Nicola,Walsh,868 SYCAMORE,82607,5062202133,Nicola.Walsh@gmail.com,202978042,0.1
+100000869,Justin,Chapman,876 TAMIL,82572,5562349481,Justin.Chapman@gmail.com,202978040,0.04
+100000870,Max,Rees,876 TANGLEWOOD,77685,4765835400,Max.Rees@gmail.com,202978086,0.06
+100000871,Joshua,Kelly,844 TANNEY,83984,5650537828,Joshua.Kelly@gmail.com,202978099,0.05
+100000872,Sally,MacDonald,810 TASSEY,79848,4791380661,Sally.MacDonald@gmail.com,202978066,0.1
+100000873,Chloe,McDonald,872 TAYLOR,78239,5205932423,Chloe.McDonald@gmail.com,202978091,0
+100000874,Julia,Alsop,862 TAYLOR GAINES,76568,5006233825,Julia.Alsop@gmail.com,202978096,0.03
+100000875,Jason,MacLeod,831 TEDFORD,84715,5473744007,Jason.MacLeod@gmail.com,202978041,0.06
+100000876,Tracey,Pullman,871 TENTH,81258,5325203960,Tracey.Pullman@gmail.com,202978073,0.09
+100000877,Megan,Reid,853 TERRA,82528,4822224304,Megan.Reid@gmail.com,202978041,0.03
+100000878,Felicity,Metcalfe,838 LIBERTY,81815,5241576775,Felicity.Metcalfe@gmail.com,202978060,0.03
+100000879,Ryan,Russell,814 LEYTON,80258,5112821115,Ryan.Russell@gmail.com,202978058,0.02
+100000880,Rachel,Springer,857 LEVERING,79632,4760189986,Rachel.Springer@gmail.com,202978040,0.03
+100000881,Joan,Nash,868 LERALYNN,80029,5023422722,Joan.Nash@gmail.com,202978038,0.07
+100000882,Piers,Simpson,859 LEONARD,82453,5460693726,Piers.Simpson@gmail.com,202978071,0.06
+100000883,Sarah,Skinner,843 LEONA,81590,5362363400,Sarah.Skinner@gmail.com,202978060,0.04
+100000884,Lisa,Turner,854 LEON,75635,5189885406,Lisa.Turner@gmail.com,202978068,0.1
+100000885,Vanessa,Manning,896 LEO,84202,5594098310,Vanessa.Manning@gmail.com,202978078,0.07
+100000889,Stephen,Bailey,820 CAMERON,78868,5138879391,Stephen.Bailey@gmail.com,202978070,0.08
+100000890,Piers,Peake,899 CANDACE,81721,5095630825,Piers.Peake@gmail.com,202978074,0
+100000891,Alexandra,Mathis,883 CIRCLETREE,83972,5609071298,Alexandra.Mathis@gmail.com,202978063,0.05
+100000892,Christopher,Anderson,852 DOUBLE SPUR,77219,5347061000,Christopher.Anderson@gmail.com,202978068,0.02
+100000893,Donna,Butler,821 CIRCLE J,79947,5244925062,Donna.Butler@gmail.com,202978092,0.08
+100000894,Faith,Buckland,884 DONNA JANE,75948,5182042398,Faith.Buckland@gmail.com,202978070,0.01
+100000895,Hannah,Terry,808 CURRY,76540,5197557356,Hannah.Terry@gmail.com,202978046,0.08
+100000898,Samantha,Ross,870 CLEAR VIEW,83984,4753765466,Samantha.Ross@gmail.com,202978050,0.02
+100000899,Amelia,Parsons,844 SUNDEW,80977,5399650186,Amelia.Parsons@gmail.com,202978076,0.07
+100000900,Fiona,Miller,857 SUMMIT,83525,4731359419,Fiona.Miller@gmail.com,202978079,0.05
+100000901,Rose,Butler,804 WELLS POINT,76955,5078307585,Rose.Butler@gmail.com,202978064,0.05
+100000902,Jake,White,869 WALTON HILL,76469,5064386334,Jake.White@gmail.com,202978079,0.01
+100000906,Caroline,Robertson,831 TULAROSA,75163,5220452518,Caroline.Robertson@gmail.com,202978056,0
+100000907,Edward,Chapman,849 TROPHY,81029,5265182019,Edward.Chapman@gmail.com,202978050,0.06
+100000908,Christopher,Peake,892 LITTLE ELM,84862,5609648911,Christopher.Peake@gmail.com,202978081,0.09
+100000917,Andrea,Newman,875 GOLDEN GATE,77655,4783076301,Andrea.Newman@gmail.com,202978060,0.06
+100000918,Deirdre,Nolan,896 HEMPHILL,81552,4858198896,Deirdre.Nolan@gmail.com,202978085,0.04
+100000919,Natalie,Duncan,801 CORNER BROOK,75594,5235130226,Natalie.Duncan@gmail.com,202978068,0.07
+100000920,Steven,Hill,873 COTTAGE GROVE,75141,4824582364,Steven.Hill@gmail.com,202978073,0.02
+100000921,William,Gibson,846 COURI,75499,5403085165,William.Gibson@gmail.com,202978051,0.07
+100000922,Sally,Glover,842 COVERED WAGON,80384,5691300665,Sally.Glover@gmail.com,202978058,0.08
+100000923,Andrea,Henderson,829 BROKEN BOW,83045,5547031844,Andrea.Henderson@gmail.com,202978064,0.09
+100000925,Andrew,Bell,890 BROOKSIDE,77676,5439379526,Andrew.Bell@gmail.com,202978058,0.03
+100000926,Dan,Johnston,888 BUCKSKIN,80054,5357796182,Dan.Johnston@gmail.com,202978047,0.06
+100000927,Victoria,Wilson,893 CONESTOGA,78493,4887059609,Victoria.Wilson@gmail.com,202978064,0.1
+100000928,Stephen,Glover,853 CONTINENTAL,82124,5401017823,Stephen.Glover@gmail.com,202978044,0.08
+100000929,Fiona,Wright,830 BUCKWHEAT,78730,5413723988,Fiona.Wright@gmail.com,202978080,0.08
+100000930,Amelia,Hughes,808 BUFFALO,75906,5163712159,Amelia.Hughes@gmail.com,202978072,0
+100000931,Maria,Lawrence,893 BULLET,80079,5656044378,Maria.Lawrence@gmail.com,202978064,0.02
+100000932,Abigail,Ferguson,869 BILLY BONNEY,80358,5293145375,Abigail.Ferguson@gmail.com,202978059,0.07
+100000933,Gavin,Harris,858 BARLEY FIELD,84303,4815060268,Gavin.Harris@gmail.com,202978040,0.04
+100000934,Heather,Abraham,826 ASTER,76320,5340521142,Heather.Abraham@gmail.com,202978083,0.1
+100000935,Felicity,Miller,811 AUSTRINA,80758,4918379453,Felicity.Miller@gmail.com,202978092,0.05
+100000936,Alexandra,Henderson,877 BARKER HOLLOW,81166,4974618602,Alexandra.Henderson@gmail.com,202978047,0.02
+100000937,Karen,White,828 BELFRY,79418,4766328880,Karen.White@gmail.com,202978083,0.09
+200000008,Lisa,Knox,873 CAISTEAL CASTLE,76255,4725212071,Lisa.Knox@gmail.com,202978036,0.06
+200000014,Thomas,Lawrence,899 COMISO PALA,83773,5065716926,Thomas.Lawrence@gmail.com,202978062,0.06
+200000017,Grace,Hill,813 COOPERS HAWK,80641,5099364705,Grace.Hill@gmail.com,202978077,0.03
+200000018,Samantha,Coleman,874 CORK,83133,4802032535,Samantha.Coleman@gmail.com,202978065,0.04
+200000022,Jason,Butler,872 CINNAMON,82932,5230314165,Jason.Butler@gmail.com,202978064,0.02
+200000024,Carl,Quinn,810 DEERBROOK,80702,5240297228,Carl.Quinn@gmail.com,202978089,0.08
+200000026,Richard,Fraser,898 DONNER,76554,5112496029,Richard.Fraser@gmail.com,202978047,0
+200000029,Lucas,Mackenzie,865 CROWN RIDGE,78610,5102723378,Lucas.Mackenzie@gmail.com,202978053,0.1
+200000033,Grace,Chapman,861 BRIDLE,78637,5492101189,Grace.Chapman@gmail.com,202978065,0.07
+200000033,Grace,Chapman,861 BRIDLE,78637,5492101189,Grace.Chapman@gmail.com,202978062,0.07
+200000039,Luke,Martin,849 BRIDAL,75651,5628416340,Luke.Martin@gmail.com,202978040,0.04
+200000040,Gavin,Pullman,843 CRAIGS CREST,81030,5642957002,Gavin.Pullman@gmail.com,202978063,0.01
+200000043,Jake,Morgan,836 CHESTNUT,77969,5241890468,Jake.Morgan@gmail.com,202978047,0.02
+200000046,Lisa,Berry,881 CAVA,77300,4973314653,Lisa.Berry@gmail.com,202978042,0
+200000047,Leah,Nolan,816 CHATHAM,82815,5057710754,Leah.Nolan@gmail.com,202978051,0.03
+200000065,Maria,Hughes,842 CHOWAN,77492,4781385847,Maria.Hughes@gmail.com,202978088,0.08
+200000066,Piers,Burgess,899 CRAFTON,75492,5139155739,Piers.Burgess@gmail.com,202978048,0.06
+200000067,Dan,Ellison,858 CREEKWOOD,83922,5346756835,Dan.Ellison@gmail.com,202978069,0.03
+200000068,Lucas,Piper,871 CRISWOOD,82336,5669733973,Lucas.Piper@gmail.com,202978037,0.04
+200000069,Jason,Sharp,831 ABINGDON,77261,5211164571,Jason.Sharp@gmail.com,202978070,0.09
+200000070,Kevin,Parr,835 ABOVE STRATFORD,81113,4767146437,Kevin.Parr@gmail.com,202978093,0.03
+200000071,Dan,Mills,890 ACADEMY,80476,5585846994,Dan.Mills@gmail.com,202978093,0.02
+200000072,Angela,Roberts,825 AGARITA,85011,5580208646,Angela.Roberts@gmail.com,202978091,0.09
+200000076,Michael,Hemmings,847 EDGEMOOR,81049,4940108190,Michael.Hemmings@gmail.com,202978037,0.02
+200000099,Robert,May,864 FANNIN FALLS,84881,4882877285,Robert.May@gmail.com,202978047,0.09
+200000100,Carolyn,Robertson,898 FLAMING OAK,80319,4944931454,Carolyn.Robertson@gmail.com,202978096,0.1
+200000101,Stewart,Lewis,891 FITZHUGH,80490,5574699505,Stewart.Lewis@gmail.com,202978078,0.01
+200000102,Emma,Piper,898 FIORELLINO,80657,5364185281,Emma.Piper@gmail.com,202978095,0.08
+200000103,Nicola,Powell,859 FIELDSTONE,82793,4932618795,Nicola.Powell@gmail.com,202978078,0.02
+200000104,Diana,McDonald,831 FARRELL,80000,5157084758,Diana.McDonald@gmail.com,202978097,0.04
+200000105,Stephen,Ross,840 FAIRFAX RIDGE,81992,4877548337,Stephen.Ross@gmail.com,202978073,0
+200000106,Ella,Bond,800 ETTA,76801,5370611890,Ella.Bond@gmail.com,202978086,0.07
+200000107,Ian,Wilson,894 ELDER,80083,5533548048,Ian.Wilson@gmail.com,202978053,0.04
+200000108,Piers,Quinn,873 ELMWOOD,82878,5639207085,Piers.Quinn@gmail.com,202978066,0.03
+200000109,Joe,Forsyth,874 ENVOY,76197,5583565562,Joe.Forsyth@gmail.com,202978076,0.05
+200000110,Tim,Jones,834 GLENDALE,83107,4958774222,Tim.Jones@gmail.com,202978093,0
+200000118,Adam,McGrath,846 GREENRIDGE,77425,5359655934,Adam.McGrath@gmail.com,202978057,0
+200000140,Keith,Harris,864 GREENHILL,80996,5035299024,Keith.Harris@gmail.com,202978057,0.03
+200000164,Claire,Walsh,892 GRANITE BAY,75322,4980360540,Claire.Walsh@gmail.com,202978053,0.09
+200000165,Paul,Harris,876 GRAHAM,82107,5675878601,Paul.Harris@gmail.com,202978059,0.09
+200000166,William,Mitchell,825 GILLESPIE,80493,5634092350,William.Mitchell@gmail.com,202978078,0
+200000186,Sue,Ellison,891 FRUITWOOD,80967,5089884207,Sue.Ellison@gmail.com,202978065,0.01
+200000191,Jason,Fisher,834 FRENCH,82460,5623478268,Jason.Fisher@gmail.com,202978042,0.03
+200000210,Blake,Rutherford,820 GALEWOOD,77162,5188612143,Blake.Rutherford@gmail.com,202978084,0.07
+200000256,Julian,Peake,837 FOUNDERS,82476,5647905187,Julian.Peake@gmail.com,202978074,0.04
+200000257,Justin,Underwood,808 HARVEST MOON,77857,5426337786,Justin.Underwood@gmail.com,202978061,0.05
+200000258,Owen,McGrath,829 HARTWICK,78408,5640611255,Owen.McGrath@gmail.com,202978089,0.08
+200000259,Alison,Taylor,821 HALWILL,81147,5080745448,Alison.Taylor@gmail.com,202978074,0.05
+200000260,Harry,Walsh,882 GREGORY,78076,5501570030,Harry.Walsh@gmail.com,202978094,0.07
+200000261,Nathan,Howard,840 GREENWICH,82296,5573513010,Nathan.Howard@gmail.com,202978064,0.05
+200000262,Zoe,Clarkson,844 FOXCROFT,79959,5147082073,Zoe.Clarkson@gmail.com,202978085,0
+200000263,Gabrielle,Marshall,862 BOXTREE,82327,4831633396,Gabrielle.Marshall@gmail.com,202978061,0.07
+200000264,Lily,Davies,874 AMBERLY,76973,4838313154,Lily.Davies@gmail.com,202978094,0.03
+200000265,Tim,Sanderson,804 AMESWOOD,76307,5197598627,Tim.Sanderson@gmail.com,202978084,0.05
+200000266,Karen,Oliver,834 ANDOVER,75302,4780403083,Karen.Oliver@gmail.com,202978041,0.1
+200000267,Luke,MacLeod,895 ANN,83291,5242985577,Luke.MacLeod@gmail.com,202978090,0
+200000295,Tim,Thomson,878 ANTOINETTE,76107,4713240654,Tim.Thomson@gmail.com,202978093,0.02
+200000300,Owen,Smith,894 ARGENTO,83827,5577810779,Owen.Smith@gmail.com,202978080,0.05
+200000301,Joseph,Robertson,820 ASHEVILLE,77546,5468323745,Joseph.Robertson@gmail.com,202978064,0.1
+200000333,David,Morrison,867 PETES,77717,4901610630,David.Morrison@gmail.com,202978051,0
+200000339,Theresa,Slater,822 PERIWINKLE,75407,5669336755,Theresa.Slater@gmail.com,202978063,0.1
+200000347,Jake,Manning,805 PEDDLE,80431,5674850820,Jake.Manning@gmail.com,202978084,0.02
+200000348,Brandon,Anderson,802 PEBBLE,77314,4856006814,Brandon.Anderson@gmail.com,202978051,0.06
+200000349,Cameron,Duncan,836 PEACE PIPE,75949,5649613745,Cameron.Duncan@gmail.com,202978090,0.01
+200000350,Isaac,Kelly,819 PEACE ON EARTH,84252,5054674775,Isaac.Kelly@gmail.com,202978065,0.06
+200000352,Piers,Harris,857 PARELL,84621,5564591255,Piers.Harris@gmail.com,202978077,0.09
+200000353,Gordon,Ellison,868 PARCO,81790,5486281568,Gordon.Ellison@gmail.com,202978036,0.07
+200000354,Ian,Kerr,878 WAR,81013,5134945335,Ian.Kerr@gmail.com,202978047,0.04
+200000355,Sebastian,Welch,825 WAGON CROSSING,78630,4745297275,Sebastian.Welch@gmail.com,202978042,0.03
+200000356,Richard,Hamilton,835 VILLAGE,77724,5299512093,Richard.Hamilton@gmail.com,202978039,0.05
+200000361,Charles,Tucker,826 URSA MAJOR,81262,4766380971,Charles.Tucker@gmail.com,202978096,0.09
+200000362,Joshua,Underwood,834 TRAWOOD,83140,4855314492,Joshua.Underwood@gmail.com,202978094,0
+200000363,Brandon,Johnston,824 TORTOSA,77796,5313493485,Brandon.Johnston@gmail.com,202978081,0.04
+200000370,Joshua,Bond,808 TELLO,78763,5570845742,Joshua.Bond@gmail.com,202978093,0.09
+200000371,Alan,Kelly,860 STOKESAY CASTLE,80895,5101359298,Alan.Kelly@gmail.com,202978057,0
+200000372,Thomas,Martin,873 SPRING HOLLOW,78877,5490738876,Thomas.Martin@gmail.com,202978053,0.02
+200000373,Lucas,Gill,889 SOUTH,83530,5216032645,Lucas.Gill@gmail.com,202978079,0.08
+200000384,Bella,Bailey,871 SIDEHILL,80248,5242690710,Bella.Bailey@gmail.com,202978088,0
+200000385,Joe,Parsons,868 SHADY GROVE,77398,4995109552,Joe.Parsons@gmail.com,202978057,0.1
+200000386,Edward,Marshall,816 RAINTREE,80455,4733638530,Edward.Marshall@gmail.com,202978079,0.01
+200000387,Christian,Blake,894 PRIMWOOD,75969,5661914491,Christian.Blake@gmail.com,202978046,0.03
+200000388,Gavin,Sanderson,852 PRAIRIE CLOVER,83011,5360697425,Gavin.Sanderson@gmail.com,202978095,0.03
+200000389,Leonard,Thomson,826 POKEALONG,75575,4811854777,Leonard.Thomson@gmail.com,202978060,0
+200000390,Joseph,Henderson,805 PINTO,76825,5181743659,Joseph.Henderson@gmail.com,202978074,0.03
+200000391,Gavin,Berry,868 PIKE,76396,5255332172,Gavin.Berry@gmail.com,202978069,0
+200000406,Ian,May,850 PALMER,81781,5323956377,Ian.May@gmail.com,202978059,0.1
+200000407,Charles,Gibson,863 NORTH,84967,5436586560,Charles.Gibson@gmail.com,202978070,0.02
+200000408,Blake,Churchill,840 NEVADA,83671,4952142497,Blake.Churchill@gmail.com,202978043,0.01
+200000414,Sebastian,Langdon,885 NAVAJO,81815,4755690893,Sebastian.Langdon@gmail.com,202978071,0.06
+200000415,Jake,Miller,823 MOCCASIN,75633,4973589118,Jake.Miller@gmail.com,202978086,0.09
+200000416,Gordon,Lee,876 ASHBROOK,76292,5422245412,Gordon.Lee@gmail.com,202978098,0.04
+200000417,Andrew,Murray,841 BLUEJACK,77344,5660951250,Andrew.Murray@gmail.com,202978075,0.03
+200000424,Keith,Ogden,849 KIRSCHNER,75995,5617911604,Keith.Ogden@gmail.com,202978091,0.05
+200000425,Joshua,Ince,833 HARWOOD,77889,5309270778,Joshua.Ince@gmail.com,202978092,0.07
+200000426,Andrew,Jackson,803 HEDGEROW,83189,4799860303,Andrew.Jackson@gmail.com,202978076,0.1
+200000438,Colin,Howard,829 HUME,84635,5276891254,Colin.Howard@gmail.com,202978036,0.03
+200000447,Neil,Coleman,846 HURST,83239,5445054041,Neil.Coleman@gmail.com,202978046,0.02
+200000448,Evan,Hart,806 HUNTINGDON,85067,4780853199,Evan.Hart@gmail.com,202978060,0.05
+200000457,Samantha,Mackay,838 HOWELL TERRACE,75895,5072185711,Samantha.Mackay@gmail.com,202978064,0.01
+200000458,Lucas,Tucker,837 HIDDEN VIEW,85002,5371591193,Lucas.Tucker@gmail.com,202978054,0
+200000458,Lucas,Tucker,837 HIDDEN VIEW,85002,5371591193,Lucas.Tucker@gmail.com,202978055,0
+200000459,Charles,Brown,878 INWOOD,79656,5687129355,Charles.Brown@gmail.com,202978090,0.04
+200000460,Olivia,Turner,804 JEFFERY,80298,4986830442,Olivia.Turner@gmail.com,202978044,0.02
+200000461,Alan,Grant,899 PYEGRAVE,75831,4857675284,Alan.Grant@gmail.com,202978051,0.06
+200000462,Paul,Martin,842 RHETT,79453,5420832275,Paul.Martin@gmail.com,202978078,0.03
+200000463,Paul,Reid,887 PRESTWOOD,81092,4794745299,Paul.Reid@gmail.com,202978091,0.02
+200000464,Adam,Dyer,879 PLACID,78553,5162988564,Adam.Dyer@gmail.com,202978053,0.04
+200000465,Una,Lawrence,873 PIONEER,78290,4947574980,Una.Lawrence@gmail.com,202978092,0.09
+200000479,Connor,MacLeod,842 PINELEAF,77408,5010481563,Connor.MacLeod@gmail.com,202978037,0.04
+200000480,Harry,Reid,811 PINE,75206,4789223464,Harry.Reid@gmail.com,202978068,0.09
+200000481,Joan,Gray,839 PILLION,77825,5211422790,Joan.Gray@gmail.com,202978062,0.04
+200000482,Justin,Graham,852 PILGRIMS,79076,5514027427,Justin.Graham@gmail.com,202978037,0.01
+200000483,Anthony,Gill,842 PEYTON,77484,5509021687,Anthony.Gill@gmail.com,202978041,0.1
+200000484,Ian,Morrison,853 PETROVE,83202,5381939485,Ian.Morrison@gmail.com,202978093,0.09
+200000485,Alan,Murray,887 PASTEL,83130,4852035101,Alan.Murray@gmail.com,202978095,0.03
+200000486,Leonard,Churchill,800 POYNETTE,82472,5004836728,Leonard.Churchill@gmail.com,202978083,0.05
+200000490,Abigail,Fisher,843 PONTON,83854,5025152958,Abigail.Fisher@gmail.com,202978091,0.01
+200000491,Piers,Jones,838 PONTEVEDRA,81528,5307758482,Piers.Jones@gmail.com,202978047,0.1
+200000492,Julian,Langdon,866 POINT VISTA,75495,5492379359,Julian.Langdon@gmail.com,202978064,0.07
+200000493,Jacob,Forsyth,898 PLOVER,79895,5376737684,Jacob.Forsyth@gmail.com,202978037,0.07
+200000493,Jacob,Forsyth,898 PLOVER,79895,5376737684,Jacob.Forsyth@gmail.com,202978090,0.07
+200000503,Warren,Lyman,879 PLEASANT RUN,80550,5024620688,Warren.Lyman@gmail.com,202978058,0.08
+200000504,Jason,Lyman,842 PARLIAMENT,80470,5016801310,Jason.Lyman@gmail.com,202978092,0
+200000505,Brandon,Peake,897 PARKVIEW,84313,5441431177,Brandon.Peake@gmail.com,202978094,0.06
+200000506,Harry,Payne,893 PARKDALE,84299,5382211120,Harry.Payne@gmail.com,202978095,0.03
+200000507,Isaac,Gill,834 PARK,75148,5201987462,Isaac.Gill@gmail.com,202978066,0.08
+200000508,Bella,Gibson,887 OAK,79717,5517538666,Bella.Gibson@gmail.com,202978075,0.08
+200000522,Benjamin,Sutherland,843 PALMA,82389,5137351919,Benjamin.Sutherland@gmail.com,202978041,0.08
+200000523,Adam,Gill,897 CENTRE,83421,5083098862,Adam.Gill@gmail.com,202978073,0
+200000532,Frank,Parr,858 CRAGGY,83640,5438604867,Frank.Parr@gmail.com,202978039,0
+200000533,Abigail,Gibson,884 CLIFF,81396,4965440603,Abigail.Gibson@gmail.com,202978089,0.01
+200000534,Sebastian,Thomson,883 EAGLE,82889,5562115833,Sebastian.Thomson@gmail.com,202978095,0.1
+200000535,Ryan,Marshall,800 MARINERS,75103,5300433855,Ryan.Marshall@gmail.com,202978083,0.05
+200000536,Simon,Brown,881 MOSS,78966,4834047051,Simon.Brown@gmail.com,202978069,0.06
+200000537,Rebecca,Simpson,844 OSAGE,84061,5552058150,Rebecca.Simpson@gmail.com,202978094,0.09
+200000538,Robert,Burgess,857 MORGANS POINT,81956,5023041627,Robert.Burgess@gmail.com,202978041,0.02
+200000548,Emily,King,893 SIGNAL,83493,4967453500,Emily.King@gmail.com,202978065,0.09
+200000548,Emily,King,893 SIGNAL,83493,4967453500,Emily.King@gmail.com,202978062,0.09
+200000549,Frank,Poole,877 PELICAN,80732,4895574155,Frank.Poole@gmail.com,202978047,0.01
+200000579,James,Glover,866 LEAFDALE,75529,5382990224,James.Glover@gmail.com,202978036,0.03
+200000580,Charles,Arnold,850 LOOKOUT,83838,5596361617,Charles.Arnold@gmail.com,202978041,0.09
+200000581,Alexander,Hill,839 HUNTERWOOD,81164,5431363862,Alexander.Hill@gmail.com,202978044,0.03
+200000582,Rebecca,Clarkson,806 KINGS,77421,5198034092,Rebecca.Clarkson@gmail.com,202978051,0.09
+200000583,Joanne,Mills,823 KLONDIKE RUSH,77886,5539536231,Joanne.Mills@gmail.com,202978076,0
+200000584,Alan,Metcalfe,854 WILDWIND,78649,5105550568,Alan.Metcalfe@gmail.com,202978063,0.1
+200000585,Julian,Russell,864 ARROWHEAD,76663,4819940560,Julian.Russell@gmail.com,202978088,0.09
+200000586,Dylan,Piper,846 BUCK,82787,5239103771,Dylan.Piper@gmail.com,202978042,0
+200000587,Sebastian,Forsyth,812 WONSLEY,76682,4844178164,Sebastian.Forsyth@gmail.com,202978043,0.07
+200000588,Sean,Dyer,876 WILLIAM CANNON,82714,4715921554,Sean.Dyer@gmail.com,202978087,0.09
+200000589,David,Cameron,838 GRADY,81284,5680534029,David.Cameron@gmail.com,202978064,0.01
+200000590,Stephen,Fisher,800 N IH 35 NB TO AIRPORT SB,80129,5555727213,Stephen.Fisher@gmail.com,202978057,0.07
+200000591,Christian,Edmunds,826 N IH 35 SVRD NB TO AIRPORT NB,79038,5186065216,Christian.Edmunds@gmail.com,202978094,0.1
+200000607,Brian,Arnold,808 N IH 35 NB TO AIRPORT,75388,5597003573,Brian.Arnold@gmail.com,202978074,0.02
+200000608,Adrian,Wright,813 N IH 35 SVRD NB TO 290 EB,76028,4928768720,Adrian.Wright@gmail.com,202978037,0
+200000609,Leonard,Brown,814 N 35 SB TO THREE POINTS,79316,5034103857,Leonard.Brown@gmail.com,202978064,0
+200000610,Ian,Walsh,821 N IH 35 SB TO RIVERSIDE,75276,5503613412,Ian.Walsh@gmail.com,202978041,0.08
+200000619,Alexander,Abraham,856 N IH 35 SB TO PARMER,79622,4862886368,Alexander.Abraham@gmail.com,202978070,0.03
+200000620,Simon,Slater,827 N IH 35 NB TO 6TH,76522,4910861024,Simon.Slater@gmail.com,202978066,0.04
+200000621,Andrew,Hill,839 N IH 35 NB TO 51ST,76405,5086372155,Andrew.Hill@gmail.com,202978097,0.02
+200000622,Christopher,Randall,896 N IH 35 NB TO 1825,82088,5608488877,Christopher.Randall@gmail.com,202978081,0.09
+200000623,Brian,Mitchell,886 N IH 35 NB TO 15TH,84722,5417325482,Brian.Mitchell@gmail.com,202978088,0.06
+200000629,Benjamin,McDonald,871 N IH 35 LD SB TO MLK,81938,5130237559,Benjamin.McDonald@gmail.com,202978070,0.09
+200000630,Sam,Powell,834 N FM 620 SB TO PARMER,84378,5365155006,Sam.Powell@gmail.com,202978088,0.06
+200000631,Sean,Lyman,891 N CAP TX TO RESEARCH SB,83966,4917534094,Sean.Lyman@gmail.com,202978046,0.04
+200000632,Nicholas,Allan,896 N CAP TX TO RESEARCH NB,75341,5271468742,Nicholas.Allan@gmail.com,202978064,0.03
+200000644,Tim,Marshall,873 N IH 35 NB TO LA POSADA,78119,4952448602,Tim.Marshall@gmail.com,202978097,0.09
+200000645,Joan,Abraham,841 N IH 35 NB TO IH 35 UD NB,80287,5515773557,Joan.Abraham@gmail.com,202978052,0.04
+200000646,Liam,Rutherford,825 N IH 35 NB TO HOWARD,79589,5220830219,Liam.Rutherford@gmail.com,202978045,0.02
+200000647,Liam,Wright,899 N IH 35 NB TO E 290 EB,78469,5148491758,Liam.Wright@gmail.com,202978077,0
+200000648,Gavin,Martin,888 N 35 NB TO CESAR CHAVEZ,79634,4927218310,Gavin.Martin@gmail.com,202978080,0.05
+200000649,Isaac,Quinn,879 N 35 NB TO CANYON RIDGE,76442,5074490788,Isaac.Quinn@gmail.com,202978086,0.02
+200000658,John,Payne,886 N IH 35 NB TO BERRYWOOD,76331,4830568701,John.Payne@gmail.com,202978084,0.07
+200000659,Stewart,Poole,866 N IH 35 NB TO ANDERSON WB,84229,5639578632,Stewart.Poole@gmail.com,202978057,0.09
+200000660,Keith,Parr,847 N IH 35 NB TO ANDERSON,75665,5166628539,Keith.Parr@gmail.com,202978078,0.06
+200000661,Lucas,Abraham,820 N 35 SB TO PARK THIRTY FI,75457,4834123778,Lucas.Abraham@gmail.com,202978045,0
+200000662,Trevor,Skinner,852 N IH 35 SB TO PAMELA,77989,5590799955,Trevor.Skinner@gmail.com,202978045,0.1
+200000663,Leonard,Jackson,839 N IH 35 SB TO KORMAN,83869,5037311674,Leonard.Jackson@gmail.com,202978043,0.02
+200000664,Harry,Hodges,885 BANFF,78261,5191804655,Harry.Hodges@gmail.com,202978096,0.07
+200000665,Edward,Turner,801 N IH 35 SB TO IH 35 SVRD,75606,4957423885,Edward.Turner@gmail.com,202978037,0.03
+200000669,Jake,Rutherford,849 N IH 35 SB TO DIAMONDBACK,84644,5052508686,Jake.Rutherford@gmail.com,202978072,0.06
+200000670,Richard,Carr,854 N 35 SB TO CESAR CHAVEZ,79606,4710322542,Richard.Carr@gmail.com,202978045,0.05
+200000671,Carolyn,Arnold,825 N IH 35 SB TO BARWOOD,84187,4896391191,Carolyn.Arnold@gmail.com,202978051,0.1
+200000672,Audrey,Ince,813 N IH 35 SB TO AIRPORT,79854,5153021260,Audrey.Ince@gmail.com,202978085,0.08
+200000673,Cameron,Dyer,858 N IH 35 SB TO 8TH,77339,4705834304,Cameron.Dyer@gmail.com,202978037,0.05
+200000674,William,Lyman,813 N IH 35 SB TO 53RD HALF,75892,5468619137,William.Lyman@gmail.com,202978092,0.09
+200000681,Maria,Welch,834 N IH 35 SB TO 290 EB,81326,5230461431,Maria.Welch@gmail.com,202978040,0.05
+200000682,Oliver,Paterson,804 N IH 35 SB TO 12TH,76627,5652263624,Oliver.Paterson@gmail.com,202978038,0.07
+200000683,Piers,Gray,828 N 35 NB TO THREE POINTS,80531,4808872209,Piers.Gray@gmail.com,202978081,0.07
+200000684,Leonard,Nash,839 N IH 35 NB TO RUTHERFORD,83987,5063466976,Leonard.Nash@gmail.com,202978079,0.08
+200000696,Benjamin,James,892 N IH 35 NB TO REINLI,76409,5332271615,Benjamin.James@gmail.com,202978036,0.06
+200000697,Paul,Wright,856 N 35 NB TO MIDDLE FISKVIL,77525,5555705878,Paul.Wright@gmail.com,202978066,0
+200000698,Jacob,Sharp,894 N CAP TX TO MOPAC NB,78446,5323300057,Jacob.Sharp@gmail.com,202978084,0.05
+200000699,Jason,Cameron,860 N CAP TX SB TO RESEARC SB,81970,4937355777,Jason.Cameron@gmail.com,202978084,0.08
+200000700,Sam,Ball,852 N CAP TX SB TO 2222 WB,79962,5304117761,Sam.Ball@gmail.com,202978040,0.01
+200000701,Joshua,Wilson,813 N CAP TX SB TO 2222,83895,4824274849,Joshua.Wilson@gmail.com,202978077,0.1
+200000701,Joshua,Wilson,813 N CAP TX SB TO 2222,83895,4824274849,Joshua.Wilson@gmail.com,202978096,0.1
+200000711,Kylie,Skinner,866 N CAP TX NB TO 2222 EB,76905,5580572947,Kylie.Skinner@gmail.com,202978042,0
+200000712,Gordon,Simpson,818 N CAP TX NB TO 2222,83306,4925829507,Gordon.Simpson@gmail.com,202978095,0.06
+200000713,Liam,Greene,894 N 620 NB TO PARMER,82877,5134491005,Liam.Greene@gmail.com,202978086,0.03
+200000714,Ian,Manning,896 N 11700 MOPAC SVRD TO MOPAC NB,83963,5597847198,Ian.Manning@gmail.com,202978074,0.09
+200000715,Sebastian,Mackenzie,886 MONTOPOLIS TO BASTROP NB,81891,4845121465,Sebastian.Mackenzie@gmail.com,202978060,0.09
+200000715,Sebastian,Mackenzie,886 MONTOPOLIS TO BASTROP NB,81891,4845121465,Sebastian.Mackenzie@gmail.com,202978087,0.09
+200000716,Theresa,Fraser,807 MOPAC SB TO WILLIAM CANNO,78188,4947318023,Theresa.Fraser@gmail.com,202978047,0.09
+200000725,Kevin,Hudson,859 MOPAC NB TO WILLIAM CANNO,81795,4789952773,Kevin.Hudson@gmail.com,202978095,0.1
+200000726,Peter,Chapman,852 MOPAC NB TO W US 290 SVRD,77636,4788427823,Peter.Chapman@gmail.com,202978082,0
+200000727,Steven,Jackson,802 MIDDLE FISKVILLE TO 35 NB,83591,4930594789,Steven.Jackson@gmail.com,202978073,0.01
+200000728,John,Buckland,886 MC NEIL TO RESEARCH SB,81487,5614208598,John.Buckland@gmail.com,202978057,0.04
+200000747,Peter,Gibson,893 LUCILE,80370,5255425600,Peter.Gibson@gmail.com,202978036,0.07
+200000748,Lucas,Graham,875 LUCKY HIT,81757,5628888489,Lucas.Graham@gmail.com,202978057,0.01
+200000749,Anthony,Quinn,830 PUTT,79277,5582746320,Anthony.Quinn@gmail.com,202978041,0.02
+200000750,Anthony,Mackenzie,863 RESERVE,76495,4960177592,Anthony.Mackenzie@gmail.com,202978038,0
+200000751,Brian,Bond,816 RESERVIST,76312,5138571057,Brian.Bond@gmail.com,202978073,0.09
+200000762,Andrea,Robertson,900 RETREAT,77701,5088219531,Andrea.Robertson@gmail.com,202978086,0.04
+200000763,William,Lyman,867 REVEILLE,77586,4849404294,William.Lyman@gmail.com,202978091,0.08
+200000764,Carl,Arnold,848 REVERE,83765,4988453545,Carl.Arnold@gmail.com,202978047,0.04
+200000765,Paul,Baker,824 EDGERTON,75722,5224285532,Paul.Baker@gmail.com,202978085,0
+200000766,Keith,Ross,862 EDDYSTONE,78760,5189270784,Keith.Ross@gmail.com,202978041,0.02
+200000774,Blake,Vance,814 ECKERT,78648,5418745549,Blake.Vance@gmail.com,202978052,0.09
+200000775,Warren,Roberts,819 EBONY,84350,5665726489,Warren.Roberts@gmail.com,202978089,0.06
+200000784,Dominic,Hart,899 EASY,76609,5101034089,Dominic.Hart@gmail.com,202978050,0.04
+200000785,Joshua,Henderson,825 EAST,84516,5689940503,Joshua.Henderson@gmail.com,202978074,0.03
+200000791,Pippa,Walsh,855 EASON,81998,5449814618,Pippa.Walsh@gmail.com,202978078,0.1
+200000792,Victor,Mathis,829 EARL,82721,4979553637,Victor.Mathis@gmail.com,202978064,0.05
+200000793,Charles,McDonald,863 GERONIMO,81533,5400552408,Charles.McDonald@gmail.com,202978042,0.06
+200000799,Leonard,Ogden,833 GEORGIAN,77058,5361119586,Leonard.Ogden@gmail.com,202978074,0.07
+200000800,Nathan,Vaughan,832 GEORGETOWN,80954,4970999687,Nathan.Vaughan@gmail.com,202978070,0.04
+200000801,Karen,MacDonald,852 GEORGE BUSH,81567,5313256287,Karen.MacDonald@gmail.com,202978086,0.07
+200000802,Eric,Slater,859 GEORGE,81268,5089681093,Eric.Slater@gmail.com,202978079,0.1
+200000803,Jason,Clark,899 GLACIER BAY,77292,4749425038,Jason.Clark@gmail.com,202978040,0.03
+200000804,Yvonne,Burgess,839 GINGER,77718,4892557050,Yvonne.Burgess@gmail.com,202978079,0.06
+200000805,John,Cameron,872 GENARD,76794,5639103933,John.Cameron@gmail.com,202978047,0.1
+200000810,Felicity,Wilkins,823 GEMMER,82227,4907855242,Felicity.Wilkins@gmail.com,202978095,0.05
+200000811,Sonia,Peters,892 GEE,78451,5415612082,Sonia.Peters@gmail.com,202978065,0
+200000819,Katherine,Grant,830 GAZELLE,82414,5466832483,Katherine.Grant@gmail.com,202978066,0.05
+200000820,Lucas,Walsh,863 GAYLOR,84292,5539394684,Lucas.Walsh@gmail.com,202978057,0.09
+200000821,Charles,Underwood,891 GAULT,80609,4909769170,Charles.Underwood@gmail.com,202978070,0.08
+200000828,Christopher,Langdon,822 GARWOOD,81198,5172839555,Christopher.Langdon@gmail.com,202978095,0.04
+200000833,Benjamin,King,814 GARRETT,75768,4728314368,Benjamin.King@gmail.com,202978092,0.07
+200000834,Sebastian,Morgan,815 HARMONY HILL,77309,5575907685,Sebastian.Morgan@gmail.com,202978047,0.01
+200000842,Matt,Manning,813 HARGRAVE,84451,5213156466,Matt.Manning@gmail.com,202978050,0.06
+200000843,Adam,Gibson,890 HARDEMAN,79427,5520000004,Adam.Gibson@gmail.com,202978077,0.06
+200000843,Adam,Gibson,890 HARDEMAN,79427,5520000004,Adam.Gibson@gmail.com,202978096,0.06
+200000844,Sarah,Blake,890 HAMPTON,79551,5497107080,Sarah.Blake@gmail.com,202978059,0.09
+200000855,John,Campbell,831 HACKBERRY,77680,4886657355,John.Campbell@gmail.com,202978095,0.02
+200000856,William,McLean,826 GUNTER,83381,5613760748,William.McLean@gmail.com,202978064,0.05
+200000863,Theresa,Quinn,870 GARNETT,75330,4732808417,Theresa.Quinn@gmail.com,202978042,0.1
+200000864,Harry,Hardacre,827 GARDEN,82549,4799262331,Harry.Hardacre@gmail.com,202978083,0.1
+200000865,Kimberly,Cornish,844 GALWAY,78679,5293723697,Kimberly.Cornish@gmail.com,202978079,0.01
+200000866,James,Gibson,844 GALLANT,83996,5558032580,James.Gibson@gmail.com,202978085,0.1
+200000886,Joe,Baker,874 GALINDO,81183,5347442726,Joe.Baker@gmail.com,202978070,0.09
+200000887,Jan,Robertson,821 FUNSTON,76816,5301932130,Jan.Robertson@gmail.com,202978043,0.02
+200000896,Paul,Allan,847 FRUTH,78542,4998042678,Paul.Allan@gmail.com,202978038,0.06
+200000897,Boris,Nash,887 FORT FRONT,79937,4969489670,Boris.Nash@gmail.com,202978070,0.08
+200000903,Jake,Peters,849 GRANT,81797,5206757488,Jake.Peters@gmail.com,202978095,0.1
+200000904,Ryan,Gray,863 GRANDVIEW,76173,5018336579,Ryan.Gray@gmail.com,202978069,0.1
+200000909,Melanie,Hunter,856 GRAND,82491,4991390972,Melanie.Hunter@gmail.com,202978050,0.08
+200000910,Owen,Henderson,854 GOWER,79027,4989830136,Owen.Henderson@gmail.com,202978074,0
+200000911,Julian,Hunter,829 GORHAM,80953,5646207793,Julian.Hunter@gmail.com,202978091,0.08
+200000912,Brian,Bower,877 GONZALES,80722,5095124950,Brian.Bower@gmail.com,202978047,0.1
+200000924,Gabrielle,Blake,849 ZENNIA,81647,5072049617,Gabrielle.Blake@gmail.com,202978091,0.06
+200000938,Trevor,Harris,822 ZARAGOSA,83601,5284037068,Trevor.Harris@gmail.com,202978061,0.05
+200000938,Trevor,Harris,822 ZARAGOSA,83601,5284037068,Trevor.Harris@gmail.com,202978098,0.05
+200000939,Alan,Dyer,827 YORKSHIRE,79709,5419693086,Alan.Dyer@gmail.com,202978073,0.07
+200000940,Victor,Sutherland,872 YELLOW OAK,75748,4889353869,Victor.Sutherland@gmail.com,202978075,0.01
+200000941,Benjamin,Manning,886 YALE,75858,5314377215,Benjamin.Manning@gmail.com,202978042,0.02
+200000942,Richard,Roberts,823 WRIGHT,84977,4781725535,Richard.Roberts@gmail.com,202978041,0.1
+300000004,Trevor,Parr,811 WOODWARD,80741,5486408196,Trevor.Parr@gmail.com,202978098,0.04
+300000006,Ava,Coleman,895 WOOTEN,76411,5429248949,Ava.Coleman@gmail.com,202978079,0.04
+300000009,Ruth,Campbell,845 ABRAHAM LINCOLN,81023,5605196830,Ruth.Campbell@gmail.com,202978088,0.03
+300000015,Madeleine,Marshall,850 ACANTHUS,83438,4789404475,Madeleine.Marshall@gmail.com,202978090,0.08
+300000021,Boris,Johnston,835 ADINA,75357,5398107575,Boris.Johnston@gmail.com,202978048,0.08
+300000023,Deirdre,McDonald,897 3RD,81406,5004549642,Deirdre.McDonald@gmail.com,202978081,0.05
+300000032,Warren,Edmunds,854 4TH,75820,5132657630,Warren.Edmunds@gmail.com,202978047,0.05
+300000073,Hannah,White,856 5TH,80768,5213479260,Hannah.White@gmail.com,202978054,0.05
+300000073,Hannah,White,856 5TH,80768,5213479260,Hannah.White@gmail.com,202978055,0.05
+300000074,Oliver,Simpson,834 6TH,84531,5675994542,Oliver.Simpson@gmail.com,202978082,0.09
+300000079,Ruth,Mathis,880 7TH,83122,5143996699,Ruth.Mathis@gmail.com,202978047,0.07
+300000111,Kirill,Eremenko,858 8TH,77688,4915071205,Kirill.Eremenko@gmail.com,202978074,0.05
+300000112,Nathan,Paterson,800 9TH,83622,5334075828,Nathan.Paterson@gmail.com,202978041,0.09
+300000167,Cameron,Ross,818 10TH,78692,4964558798,Cameron.Ross@gmail.com,202978040,0.07
+300000168,Pippa,Wilson,849 11TH,77555,5052454809,Pippa.Wilson@gmail.com,202978061,0.05
+300000238,Dorothy,Miller,889 12TH,83278,5459016967,Dorothy.Miller@gmail.com,202978041,0.06
+300000268,James,Oliver,860 1ST,78241,5517831201,James.Oliver@gmail.com,202978095,0
+300000269,Gabrielle,Powell,827 2ND,75188,5423736891,Gabrielle.Powell@gmail.com,202978064,0.1
+300000270,Heather,Black,860 FLORES,81725,5154070753,Heather.Black@gmail.com,202978048,0.01
+300000271,Carl,Abraham,807 GOLDEN EAGLE,75759,4743030130,Carl.Abraham@gmail.com,202978072,0.02
+300000302,William,Wilkins,856 FREDERICK,80776,4709468042,William.Wilkins@gmail.com,202978084,0.07
+300000340,Rebecca,Nash,803 HARVEY,78898,5184367701,Rebecca.Nash@gmail.com,202978041,0.09
+300000351,Nicholas,James,823 HARVARD,82481,5645962352,Nicholas.James@gmail.com,202978097,0.01
+300000357,Mary,Reid,900 HARTHAN,78840,4839449182,Mary.Reid@gmail.com,202978058,0.02
+300000358,Simon,Morrison,892 GULLETT,83609,4849997092,Simon.Morrison@gmail.com,202978046,0.04
+300000364,Katherine,Howard,813 GROOMS,75125,4907686404,Katherine.Howard@gmail.com,202978065,0.01
+300000365,Dorothy,Butler,872 GRIFFITH,83935,5306666576,Dorothy.Butler@gmail.com,202978048,0.06
+300000366,Dorothy,Paige,809 GREGG,77088,5095874423,Dorothy.Paige@gmail.com,202978097,0
+300000367,Karen,Gray,819 GREENOCK,76957,5324833333,Karen.Gray@gmail.com,202978069,0.02
+300000374,John,Underwood,846 FRANCISCO,76782,4796493297,John.Underwood@gmail.com,202978060,0.02
+300000375,Molly,Black,890 CRUZ,77541,5106885628,Molly.Black@gmail.com,202978036,0.01
+300000392,Yvonne,Piper,847 CROSS,84319,4765556321,Yvonne.Piper@gmail.com,202978070,0.03
+300000393,Lily,Lyman,823 CROCKETT,82030,4829269364,Lily.Lyman@gmail.com,202978097,0.02
+300000394,Julia,Scott,822 CHROMITE,82617,4735506948,Julia.Scott@gmail.com,202978046,0.09
+300000394,Julia,Scott,822 CHROMITE,82617,4735506948,Julia.Scott@gmail.com,202978075,0.09
+300000395,Gavin,Oliver,891 CHINA,79680,5167324424,Gavin.Oliver@gmail.com,202978070,0.01
+300000409,Stewart,Scott,836 CHICO,75740,5498049429,Stewart.Scott@gmail.com,202978057,0.09
+300000410,Andrew,Grant,811 CHEYENNE,79114,4735796892,Andrew.Grant@gmail.com,202978044,0.05
+300000411,Edward,Dowd,862 BRIARWOOD,81694,4761932223,Edward.Dowd@gmail.com,202978052,0.03
+300000418,Christian,McLean,839 BRIGHTSIDE,75447,5653180097,Christian.McLean@gmail.com,202978038,0.05
+300000427,Dominic,Welch,854 BROADVIEW,78736,4888454419,Dominic.Welch@gmail.com,202978061,0.04
+300000427,Dominic,Welch,854 BROADVIEW,78736,4888454419,Dominic.Welch@gmail.com,202978098,0.04
+300000428,Diana,Bower,891 BROCKMAN,77165,5140321866,Diana.Bower@gmail.com,202978044,0.01
+300000429,Trevor,Reid,800 ALFRED,77957,4781976558,Trevor.Reid@gmail.com,202978036,0.01
+300000430,Amy,Welch,884 ALGREG,78779,4885035030,Amy.Welch@gmail.com,202978080,0.08
+300000439,Tim,Miller,882 ALLEN,84751,5377929567,Tim.Miller@gmail.com,202978084,0.01
+300000440,Sally,Mitchell,871 AMBER,77990,5375393788,Sally.Mitchell@gmail.com,202978081,0.04
+300000466,Amy,Davies,816 ANGELINA,84691,5062605812,Amy.Davies@gmail.com,202978081,0.02
+300000467,Angela,Morrison,821 ANNA,76014,5295248827,Angela.Morrison@gmail.com,202978042,0.08
+300000468,Jasmine,Allan,812 BRAES VALLEY,79327,5458747550,Jasmine.Allan@gmail.com,202978050,0.01
+300000469,Peter,Parsons,853 BRANCH,80447,5559293496,Peter.Parsons@gmail.com,202978050,0.02
+300000487,Heather,Ross,865 BRASSIE,83325,4773644966,Heather.Ross@gmail.com,202978074,0.05
+300000494,Jonathan,White,866 CANION,84777,5616621067,Jonathan.White@gmail.com,202978042,0.05
+300000495,Stephen,Poole,876 CALLE,80776,5161438801,Stephen.Poole@gmail.com,202978054,0.08
+300000496,Julia,Chapman,882 CANEY,76627,5118472894,Julia.Chapman@gmail.com,202978054,0.03
+300000509,Wendy,Rampling,870 CLOVIS,83877,5505591039,Wendy.Rampling@gmail.com,202978088,0.02
+300000510,Peter,Scott,850 COGBILL,81303,4794592487,Peter.Scott@gmail.com,202978047,0.06
+300000511,Felicity,Wallace,841 COLE,84015,4887634320,Felicity.Wallace@gmail.com,202978045,0.08
+300000512,Jasmine,Marshall,848 COLEBROOK,81992,4896610129,Jasmine.Marshall@gmail.com,202978069,0.09
+300000524,Brandon,Clark,884 COLEMAN,75596,5437165484,Brandon.Clark@gmail.com,202978097,0
+300000525,Luke,Mathis,842 COLETO,83978,5494503932,Luke.Mathis@gmail.com,202978056,0.06
+300000526,Yvonne,Metcalfe,862 COLLEGE,83538,5383597615,Yvonne.Metcalfe@gmail.com,202978048,0.03
+300000527,Mary,Stewart,866 COLLIER,82714,5592615002,Mary.Stewart@gmail.com,202978053,0.04
+300000528,Victoria,Welch,895 COLLINS,76216,4885623763,Victoria.Welch@gmail.com,202978092,0.08
+300000529,Amelia,Nolan,837 COLORADO,78301,4849195970,Amelia.Nolan@gmail.com,202978070,0.07
+300000530,Chloe,Hill,869 COLT,82416,4964091898,Chloe.Hill@gmail.com,202978088,0.05
+300000531,Felicity,Vaughan,844 COLUMBINE,82239,5406866473,Felicity.Vaughan@gmail.com,202978049,0.02
+300000539,Julia,Allan,883 COLUMBUS,76011,5572096021,Julia.Allan@gmail.com,202978054,0.04
+300000539,Julia,Allan,883 COLUMBUS,76011,5572096021,Julia.Allan@gmail.com,202978055,0.04
+300000550,Fiona,Young,867 COMAL,77160,5612742794,Fiona.Young@gmail.com,202978092,0.09
+300000551,Cameron,Knox,889 COMANCHE,78039,5082207885,Cameron.Knox@gmail.com,202978064,0.04
+300000552,Bernadette,Ferguson,864 COMETA,75484,5248366550,Bernadette.Ferguson@gmail.com,202978037,0.02
+300000553,Zoe,Ferguson,838 COMFORT,77200,5015511886,Zoe.Ferguson@gmail.com,202978066,0.06
+300000592,Diana,Martin,893 COMMERCE,77129,4945521482,Diana.Martin@gmail.com,202978093,0.07
+300000593,Amanda,Simpson,816 CONCHO,84066,5538868820,Amanda.Simpson@gmail.com,202978058,0.04
+300000594,Joan,Randall,803 CONFEDERATE,80584,4941478858,Joan.Randall@gmail.com,202978053,0.1
+300000595,Joe,Ogden,848 TERCEL,84509,5684510219,Joe.Ogden@gmail.com,202978048,0.08
+300000596,Lillian,Kerr,808 SWEETGUM,80833,5471440845,Lillian.Kerr@gmail.com,202978085,0.06
+300000597,Julian,Lyman,837 SINGLE,76286,5471151396,Julian.Lyman@gmail.com,202978037,0.01
+300000598,Blake,MacDonald,822 SHADOWLAWN,79775,5262651058,Blake.MacDonald@gmail.com,202978072,0.07
+300000599,Victoria,Forsyth,867 REDWOOD,81137,5666366586,Victoria.Forsyth@gmail.com,202978043,0.07
+300000611,Nicola,Paige,847 CLEARVIEW,75801,4945084376,Nicola.Paige@gmail.com,202978078,0.08
+300000612,Emily,Ince,895 CLEAROCK,84763,5579704349,Emily.Ince@gmail.com,202978076,0.07
+300000613,Paul,Ellison,885 CLEARFIELD,84966,4975965346,Paul.Ellison@gmail.com,202978044,0.04
+300000614,Jennifer,Skinner,830 CLEARDAY,83475,5626721218,Jennifer.Skinner@gmail.com,202978095,0.1
+300000615,Penelope,Grant,825 CLEARCREEK,83350,4835541465,Penelope.Grant@gmail.com,202978044,0.04
+300000624,Tim,Paterson,846 CIELO VISTA,79242,4972035448,Tim.Paterson@gmail.com,202978069,0.09
+300000633,Piers,Miller,827 CHURCHILL DOWNS,75741,5041451547,Piers.Miller@gmail.com,202978041,0.08
+300000634,Heather,Mackay,817 CHURCHILL,81877,4808644314,Heather.Mackay@gmail.com,202978081,0.04
+300000635,Kimberly,Walsh,882 DWYCE,83289,5316758464,Kimberly.Walsh@gmail.com,202978072,0.1
+300000636,Elizabeth,McDonald,814 DURHAM,83815,4877802622,Elizabeth.McDonald@gmail.com,202978089,0.02
+300000637,Carolyn,Mills,876 DUQUESNE,82761,5412807215,Carolyn.Mills@gmail.com,202978072,0.04
+300000650,Abigail,Short,891 DUPREE,84901,5017872212,Abigail.Short@gmail.com,202978092,0.01
+300000651,Una,Jones,854 DUNSTAN,75382,5163443217,Una.Jones@gmail.com,202978050,0.01
+300000652,Chloe,Forsyth,802 DOG LEG,77659,4716549411,Chloe.Forsyth@gmail.com,202978070,0.04
+300000666,Alan,Forsyth,860 DOEFIELD,82369,5520771994,Alan.Forsyth@gmail.com,202978046,0.05
+300000667,Richard,Watson,883 DODGE CATTLE,79928,5135247009,Richard.Watson@gmail.com,202978044,0.07
+300000668,Anthony,Ellison,801 DOCTOR SCOTT,83118,5628203280,Anthony.Ellison@gmail.com,202978044,0
+300000675,Matt,Davies,831 DOBUSH,75357,5626505446,Matt.Davies@gmail.com,202978065,0.04
+300000685,Caroline,Ross,833 DOBIE,82147,4840989533,Caroline.Ross@gmail.com,202978097,0.08
+300000686,Stephen,Taylor,848 DOBBIN,79269,5394330225,Stephen.Taylor@gmail.com,202978046,0.03
+300000687,Tim,Vance,900 DIXON,81823,5538141635,Tim.Vance@gmail.com,202978070,0.1
+300000687,Tim,Vance,900 DIXON,81823,5538141635,Tim.Vance@gmail.com,202978076,0.1
+300000688,Wendy,Piper,844 DIXIE,81508,4929481066,Wendy.Piper@gmail.com,202978039,0.1
+300000689,Warren,Ferguson,898 DIVIDE,84269,5007911152,Warren.Ferguson@gmail.com,202978076,0.03
+300000702,Diane,Underwood,800 DITTMAR OAKS,83101,5650988160,Diane.Underwood@gmail.com,202978078,0.03
+300000703,Diana,Hodges,814 DISTANT VIEW,78825,5028701339,Diana.Hodges@gmail.com,202978048,0.05
+300000704,Bernadette,Cornish,875 DIOR,80841,4988112945,Bernadette.Cornish@gmail.com,202978038,0.04
+300000705,Joshua,Coleman,861 DIONYSUS,84864,5600953548,Joshua.Coleman@gmail.com,202978086,0.01
+300000717,Anne,Allan,895 DILLWEED,81696,5619860522,Anne.Allan@gmail.com,202978086,0.08
+300000718,Colin,Hill,818 DILLIONHILL,76486,5472854903,Colin.Hill@gmail.com,202978063,0.05
+300000719,Sebastian,North,847 DIJON,82210,5605245128,Sebastian.North@gmail.com,202978078,0.01
+300000729,James,Quinn,878 DICKSON,82541,5315772235,James.Quinn@gmail.com,202978043,0.02
+300000730,Nicola,Howard,814 DIANE,81636,5501832332,Nicola.Howard@gmail.com,202978092,0.09
+300000731,Warren,Ince,812 DIANA,76862,5056777133,Warren.Ince@gmail.com,202978089,0.04
+300000732,Joshua,MacLeod,830 DIAMOND HEAD,83592,5347160614,Joshua.MacLeod@gmail.com,202978086,0.01
+300000733,Peter,Henderson,847 DEXMOOR,83491,4738343605,Peter.Henderson@gmail.com,202978045,0.06
+300000734,Sarah,Murray,840 DEXLER,77442,5643233567,Sarah.Murray@gmail.com,202978040,0.02
+300000735,John,Anderson,890 DEXFORD,80264,5684199260,John.Anderson@gmail.com,202978037,0.09
+300000735,John,Anderson,890 DEXFORD,80264,5684199260,John.Anderson@gmail.com,202978090,0.09
+300000736,Anne,Butler,827 DEWBERRY,81827,5589447072,Anne.Butler@gmail.com,202978074,0.1
+300000752,Melanie,Buckland,825 DEVONSHIRE,77691,5658226354,Melanie.Buckland@gmail.com,202978055,0
+300000753,David,Mills,805 DEVEREUX,82244,5600924102,David.Mills@gmail.com,202978048,0.03
+300000767,Chloe,Bond,820 DEURNE,78469,4730512230,Chloe.Bond@gmail.com,202978069,0.01
+300000768,Tracey,Clark,898 DEUPREE,79604,5555902395,Tracey.Clark@gmail.com,202978084,0.02
+300000776,Connor,Nolan,886 DESTINYS GATE,79095,5661507758,Connor.Nolan@gmail.com,202978063,0.06
+300000777,Jasmine,Lee,895 DESTINY HILLS,81139,4754544544,Jasmine.Lee@gmail.com,202978081,0.01
+300000778,Christopher,McGrath,853 DESIRABLE,76835,5282800208,Christopher.McGrath@gmail.com,202978088,0.08
+300000779,Deirdre,Parsons,806 DESERT WILLOW,81907,5009181473,Deirdre.Parsons@gmail.com,202978050,0.1
+300000786,Bernadette,Jackson,830 DESCO,75988,5345421566,Bernadette.Jackson@gmail.com,202978081,0.07
+300000787,Neil,Sanderson,882 DERVINGHAM,77355,5161864798,Neil.Sanderson@gmail.com,202978069,0.06
+300000794,Cameron,Alsop,845 DEREK,75130,5283548010,Cameron.Alsop@gmail.com,202978070,0.02
+300000812,Natalie,Wallace,814 DERECHO,76547,5462382540,Natalie.Wallace@gmail.com,202978078,0.07
+300000813,Diane,Piper,826 DERBY DOWNS,81849,5168897696,Diane.Piper@gmail.com,202978086,0.01
+300000814,James,Newman,824 DEPUTY,77509,5357552908,James.Newman@gmail.com,202978072,0.01
+300000815,Pippa,Robertson,878 DENWOOD,77167,5417878956,Pippa.Robertson@gmail.com,202978059,0.03
+300000822,Leonard,Fisher,847 DENTON,84626,5195770215,Leonard.Fisher@gmail.com,202978088,0.07
+300000845,Christopher,Ogden,867 EDGEWATER,81447,5384109538,Christopher.Ogden@gmail.com,202978047,0.08
+300000852,Kevin,Parsons,888 EAGLE LOOKOUT,83691,4895873941,Kevin.Parsons@gmail.com,202978051,0.03
+300000857,Sophie,Ince,890 EAGLE KNOLL,78335,5379528827,Sophie.Ince@gmail.com,202978088,0.1
+300000888,Pippa,Gray,828 DENISE,79005,5510314730,Pippa.Gray@gmail.com,202978068,0
+300000905,Amy,Morgan,867 DENFIELD,76045,5291039563,Amy.Morgan@gmail.com,202978061,0.03
+300000913,Dan,Robertson,862 DEMONA,75571,4753951494,Dan.Robertson@gmail.com,202978048,0.1
+400000002,Jasmine,Miller,859 DEMARETT,81008,5367729687,Jasmine.Miller@gmail.com,202978095,0
+400000027,Rachel,McGrath,871 DAGON,79858,4751594145,Rachel.McGrath@gmail.com,202978042,0.09
+400000044,Yvonne,Churchill,816 DAGAMA,83702,5204586634,Yvonne.Churchill@gmail.com,202978086,0.06
+400000048,Carolyn,Lewis,873 DAFFODIL,76166,4862151451,Carolyn.Lewis@gmail.com,202978062,0.01
+400000075,Olivia,Dowd,815 CYRILLA,84438,4733108652,Olivia.Dowd@gmail.com,202978061,0.06
+400000113,Tim,Hardacre,844 CYPRESS CREEK,80754,4795261322,Tim.Hardacre@gmail.com,202978081,0.03
+400000114,Fiona,Mills,884 CYPRESS,82344,5676058420,Fiona.Mills@gmail.com,202978085,0.09
+400000115,Ruth,Oliver,863 CYNTHIA,75089,5578207094,Ruth.Oliver@gmail.com,202978078,0.1
+400000180,Eric,Bower,824 CUTBACK,81339,5117447471,Eric.Bower@gmail.com,202978097,0.06
+400000272,Rose,Blake,879 CUSHING PARK,79726,5526578310,Rose.Blake@gmail.com,202978100,0.08
+400000359,Gabrielle,MacDonald,840 CUSHING,77083,5542472696,Gabrielle.MacDonald@gmail.com,202978080,0.07
+400000368,Olivia,Simpson,843 CURTIS,83685,4930987765,Olivia.Simpson@gmail.com,202978080,0
+400000376,Megan,Forsyth,849 CURRYWOOD,77522,5383248525,Megan.Forsyth@gmail.com,202978036,0.07
+400000396,Fiona,Buckland,892 CURLEW,81959,4773739361,Fiona.Buckland@gmail.com,202978051,0.08
+400000397,Madeleine,Kerr,874 CURAHEE,82489,4768090940,Madeleine.Kerr@gmail.com,202978056,0.04
+400000398,Nicola,Ferguson,833 CUPID,76082,5269102094,Nicola.Ferguson@gmail.com,202978078,0.04
+400000399,Amy,Miller,827 CUMULUS,75550,4830451986,Amy.Miller@gmail.com,202978080,0.04
+400000419,Alison,Kerr,805 CULTS,80358,4916541918,Alison.Kerr@gmail.com,202978036,0.01
+400000431,Jan,Avery,863 CULBERSON,84950,5589726667,Jan.Avery@gmail.com,202978079,0.08
+400000432,Abigail,Poole,891 CUEVA,75718,5574971022,Abigail.Poole@gmail.com,202978083,0.01
+400000433,Rose,Robertson,867 CRYSTALBROOK,81492,5036123622,Rose.Robertson@gmail.com,202978091,0.06
+400000434,Penelope,Paterson,805 CRYSTAL WATER,76127,5060065400,Penelope.Paterson@gmail.com,202978048,0.01
+400000441,Amy,Murray,852 CRYSTAL SHORE,82826,5004068131,Amy.Murray@gmail.com,202978070,0
+400000442,Dorothy,Duncan,882 CRYSTAL MOUNTAIN,82751,5179061805,Dorothy.Duncan@gmail.com,202978065,0.06
+400000449,Edward,Buckland,812 CRYSTAL HILLS,83461,5279549825,Edward.Buckland@gmail.com,202978036,0.06
+400000450,Jake,Cornish,881 DELWOOD,84367,4895074303,Jake.Cornish@gmail.com,202978090,0.08
+400000470,James,White,805 DELTA POST,77386,5546341643,James.White@gmail.com,202978097,0.08
+400000471,Joan,Blake,876 DELTA,84484,4952400534,Joan.Blake@gmail.com,202978080,0.1
+400000472,Gabrielle,Hardacre,823 DELSIE,80975,4710357288,Gabrielle.Hardacre@gmail.com,202978043,0.01
+400000473,James,Kerr,820 DELMONICO,80978,5541365851,James.Kerr@gmail.com,202978053,0.05
+400000474,Harry,Peake,858 DELLREY,76790,5146186415,Harry.Peake@gmail.com,202978081,0.04
+400000488,Sue,Morrison,803 DELLA TORRE,83932,5489289897,Sue.Morrison@gmail.com,202978084,0.07
+400000497,Anna,Chapman,875 DELCREST,75673,5428193965,Anna.Chapman@gmail.com,202978052,0.06
+400000513,Amy,Wilkins,857 DELCOUR,79006,5469301724,Amy.Wilkins@gmail.com,202978065,0.02
+400000514,Michael,Henderson,861 DEIDRA,83875,5063072923,Michael.Henderson@gmail.com,202978063,0.08
+400000515,Amanda,Mackenzie,853 DEERINGHILL,79679,5694366306,Amanda.Mackenzie@gmail.com,202978051,0.1
+400000516,Hannah,Oliver,879 DEERGROVE,79602,5654591300,Hannah.Oliver@gmail.com,202978061,0.1
+400000516,Hannah,Oliver,879 DEERGROVE,79602,5654591300,Hannah.Oliver@gmail.com,202978098,0.1
+400000517,Carol,Rutherford,849 DEERFOOT,83079,5270585561,Carol.Rutherford@gmail.com,202978073,0.09
+400000540,Fiona,Baker,814 DEERFIELD PARK,75970,5259343785,Fiona.Baker@gmail.com,202978064,0.08
+400000541,Victoria,Kerr,868 DEERFIELD,84079,5509140808,Victoria.Kerr@gmail.com,202978101,0.01
+400000554,Carol,Marshall,825 DEEPWOODS,84606,5076004600,Carol.Marshall@gmail.com,202978094,0.09
+400000555,Zoe,Murray,800 DEEPWOOD,77874,5571017531,Zoe.Murray@gmail.com,202978064,0.07
+400000556,Irene,Oliver,807 DEEDE,82326,4891901751,Irene.Oliver@gmail.com,202978048,0.02
+400000557,Lisa,Buckland,891 DEE,76310,5145814913,Lisa.Buckland@gmail.com,202978079,0.02
+400000600,Nicola,Graham,807 DECKHOUSE,81703,5406116972,Nicola.Graham@gmail.com,202978043,0.09
+400000601,Blake,Anderson,859 DECKER PRAIRIE,83423,5561640899,Blake.Anderson@gmail.com,202978059,0
+400000602,Molly,Hart,892 DECKER CREEK,82162,4877422425,Molly.Hart@gmail.com,202978088,0
+400000625,Eric,Oliver,813 DEBORAH,76626,5496397781,Eric.Oliver@gmail.com,202978068,0.01
+400000638,Irene,Gill,884 DEBCOE,78329,5598838590,Irene.Gill@gmail.com,202978073,0.06
+400000639,Peter,Miller,889 DEBBIE,75810,5192139078,Peter.Miller@gmail.com,202978091,0.04
+400000653,Sam,Campbell,803 DEBBA,78992,4702476913,Sam.Campbell@gmail.com,202978042,0.01
+400000654,Simon,Lawrence,818 DEBARR,81604,4770662834,Simon.Lawrence@gmail.com,202978042,0
+400000676,Andrea,Nolan,850 DEATONHILL,79625,5414433702,Andrea.Nolan@gmail.com,202978073,0.04
+400000690,Bernadette,Duncan,855 DEARBONNE,77653,5236826014,Bernadette.Duncan@gmail.com,202978042,0.03
+400000691,Jacob,Clarkson,862 DEADWOOD,78492,5655840670,Jacob.Clarkson@gmail.com,202978042,0.02
+400000692,Hannah,Hudson,850 DAYTONA,76239,5352223473,Hannah.Hudson@gmail.com,202978077,0.01
+400000706,Samantha,Mills,813 DAWSON CREEK,77533,5474136304,Samantha.Mills@gmail.com,202978071,0.1
+400000720,William,Grant,826 DAWN,82544,5425919066,William.Grant@gmail.com,202978073,0.04
+400000721,James,Dowd,802 DAWLISH,76805,5396843806,James.Dowd@gmail.com,202978051,0
+400000737,Katherine,Clark,817 DAVY,79343,4809941980,Katherine.Clark@gmail.com,202978075,0.02
+400000738,Natalie,Tucker,840 DAVIOT,76044,5416321603,Natalie.Tucker@gmail.com,202978040,0.03
+400000739,Yvonne,Bower,809 DAVID MOORE,84433,5430802205,Yvonne.Bower@gmail.com,202978061,0.1
+400000740,Michael,Hamilton,894 DAVID CURRY,77362,4918533032,Michael.Hamilton@gmail.com,202978083,0.03
+400000741,Fiona,Rees,814 DAVE,78753,4759458944,Fiona.Rees@gmail.com,202978043,0.05
+400000754,Emily,Clarkson,846 DAUPHINE,83376,5593127130,Emily.Clarkson@gmail.com,202978058,0.1
+400000755,Angela,Oliver,803 DASHWOOD CREEK,76023,5231491259,Angela.Oliver@gmail.com,202978089,0.01
+400000756,Joanne,May,847 DASHER,78724,5115261342,Joanne.May@gmail.com,202978048,0.1
+400000757,Joanne,King,817 DARTMOOR,84516,4848325065,Joanne.King@gmail.com,202978043,0.05
+400000758,Julia,McDonald,828 DARRYL,78626,4763723961,Julia.McDonald@gmail.com,202978089,0.05
+400000759,Neil,James,871 DAROLD,84007,5459245562,Neil.James@gmail.com,202978058,0.01
+400000769,Jason,Walker,825 DARNELL,76130,4745412591,Jason.Walker@gmail.com,202978079,0.03
+400000770,Bella,Vaughan,863 DARLEY ARABIAN,79054,5583330490,Bella.Vaughan@gmail.com,202978089,0
+400000780,Victor,Quinn,880 DARLESS,76064,4914074275,Victor.Quinn@gmail.com,202978064,0.1
+400000795,Amanda,King,897 DARKWOODS,75779,5511864964,Amanda.King@gmail.com,202978060,0.1
+400000829,Lillian,Hemmings,849 DARJEELING,78008,4836812854,Lillian.Hemmings@gmail.com,202978047,0.01
+400000830,Trevor,Mitchell,814 DANWOOD,76844,5103591584,Trevor.Mitchell@gmail.com,202978039,0.04
+400000837,Sean,Rampling,854 DANVILLE,76949,5178162988,Sean.Rampling@gmail.com,202978064,0.05
+400000914,Anna,Randall,857 DANSWORTH,81454,5228593427,Anna.Randall@gmail.com,202978085,0.05
+400000915,Melanie,Hemmings,856 DANNY,80825,4809355317,Melanie.Hemmings@gmail.com,202978052,0.01
+400000916,Matt,Grant,825 DANIEL BOONE,80863,5065655973,Matt.Grant@gmail.com,202978097,0.02

@@ -1,0 +1,80 @@
+CREATE TABLE IF NOT EXISTS `ecommerce database`.`Customer` (
+  `Customer ID` INT NOT NULL,
+  `Order ID` INT NULL,
+  `First Name` VARCHAR(45) NULL,
+  `Last Name` VARCHAR(45) NULL,
+  `Address` VARCHAR(45) NULL,
+  `Zip Code` INT NULL,
+  `Phone Number` INT NULL,
+  `Email Address` VARCHAR(45) NULL,
+  `City` VARCHAR(45) NULL,
+  `State` VARCHAR(45) NULL,
+  PRIMARY KEY (`Customer ID`),
+  INDEX `Order ID_idx` (`Order ID` ASC) VISIBLE,
+  CONSTRAINT `Order ID`
+    FOREIGN KEY (`Order ID`)
+    REFERENCES `ecommerce database`.`Order` (`Order ID`)
+    ON DELETE CASCADE
+    ON UPDATE CASCADE)
+ENGINE = InnoDB
+
+CREATE TABLE IF NOT EXISTS `ecommerce database`.`Order` (
+  `Order ID` INT NOT NULL,
+  `Order Date` DATE NULL,
+  `Product ID` INT NULL,
+  `Payment ID` INT NULL,
+  `Quantity` INT NULL,
+  `Price Per Unit` FLOAT NULL,
+  `Loyalty Discount` FLOAT NULL,
+  `Order Total` FLOAT NULL,
+  PRIMARY KEY (`Order ID`),
+  INDEX `Product ID_idx` (`Product ID` ASC) VISIBLE,
+  INDEX `Payment ID_idx` (`Payment ID` ASC) VISIBLE,
+  CONSTRAINT `Product ID`
+    FOREIGN KEY (`Product ID`)
+    REFERENCES `ecommerce database`.`Product` (`Product ID`)
+    ON DELETE CASCADE
+    ON UPDATE CASCADE,
+  CONSTRAINT `Payment ID`
+    FOREIGN KEY (`Payment ID`)
+    REFERENCES `ecommerce database`.`Payment` (`Payment ID`)
+    ON DELETE CASCADE
+    ON UPDATE CASCADE)
+ENGINE = InnoDB
+
+CREATE TABLE IF NOT EXISTS `ecommerce database`.`Payment` (
+  `Payment ID` INT NOT NULL,
+  `Payment Type` VARCHAR(45) NULL,
+  PRIMARY KEY (`Payment ID`))
+ENGINE = InnoDB
+
+CREATE TABLE IF NOT EXISTS `ecommerce database`.`Product` (
+  `Product ID` INT NOT NULL,
+  `Product Name` VARCHAR(45) NULL,
+  `Seller ID` INT NULL,
+  `Price Per Unit` FLOAT NULL,
+  `Units in Order` INT NULL,
+  `Units in Stock` INT NULL,
+  PRIMARY KEY (`Product ID`),
+  INDEX `Seller ID_idx` (`Seller ID` ASC) VISIBLE,
+  CONSTRAINT `Seller ID`
+    FOREIGN KEY (`Seller ID`)
+    REFERENCES `ecommerce database`.`Seller` (`Seller ID`)
+    ON DELETE CASCADE
+    ON UPDATE CASCADE)
+ENGINE = InnoDB
+
+CREATE TABLE IF NOT EXISTS `ecommerce database`.`Seller` (
+  `Seller ID` INT NOT NULL,
+  `Seller Name` VARCHAR(45) NULL,
+  `Seller Contact Name` VARCHAR(45) NULL,
+  `Seller Address` VARCHAR(45) NULL,
+  `Seller Zip Code` INT NULL,
+  `Seller Phone` INT NULL,
+  `Seller Email` VARCHAR(45) NULL,
+  `Seller City` VARCHAR(45) NULL,
+  `Seller State` VARCHAR(45) NULL,
+  PRIMARY KEY (`Seller ID`))
+ENGINE = InnoDB
+
+
